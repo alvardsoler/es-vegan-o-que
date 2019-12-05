@@ -274,7 +274,7 @@ const results = document.querySelector('#results');
 if (!input) throw new Error('No encuentro el input!');
 
 input.addEventListener('input', () => {
-  const text = input.value.split(' ');
+  const text = input.value.replace(/e/ig, '').split(' ');
   if (text.length) {
     const aditives = list.filter(aditive => text.includes(aditive.cod));
     // "cod": "120",
