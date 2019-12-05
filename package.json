@@ -1,0 +1,11 @@
+{
+  "name": "aditives",
+  "version": "1.0.0",
+  "description": "list of aditive numbers and if its vegan or what",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
