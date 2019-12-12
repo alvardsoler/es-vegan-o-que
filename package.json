@@ -4,6 +4,7 @@
   "description": "list of aditive numbers and if its vegan or what",
   "main": "index.js",
   "scripts": {
+    "start": "python -m SimpleHTTPServer",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",

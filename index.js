@@ -1,3 +1,4 @@
+/*
 const list = [{
     "cod": "120",
     "aditive": "Cochineal",
@@ -266,31 +267,50 @@ const list = [{
     "type": "meaby"
   }
 ];
+*/
+let list = [];
 
+fetch('allAditives.json').then(resp => resp.json()).then(json => list = json);
+
+const emojis = {
+  animal: '🚫',
+  meaby: '❔',
+  vegan: '🌱'
+};
+
+// https://en.wikipedia.org/wiki/E_number
 
 const input = document.querySelector('#search');
 const results = document.querySelector('#results');
 
 if (!input) throw new Error('No encuentro el input!');
 
-input.addEventListener('input', () => {
+const onInput = () => {
   const text = input.value.replace(/e/ig, '').split(' ');
   if (text.length) {
-    const aditives = list.filter(aditive => text.includes(aditive.cod));
+    const aditives = text.filter(t => t.match(/^(e)?\d{3,4}$/i)).map(t => {
+      const sotredAditive = list.find(aditive => aditive.code === t);
+      if (sotredAditive) return sotredAditive;
+    });
+    // const aditives = list.filter(aditive => text.includes(aditive.cod));
     // "cod": "120",
     // "aditive": "Cochineal",
     // "description": "A natural red colour derived from the bodies of pregnant scale insects.",
     // "type": "animal"
-    if (!aditives.length) {
-      results.innerHTML = `<div class="vegan">This aditive is vegan! Enjoy :)</div>`;
-    } else {
-      results.innerHTML = aditives.map(aditive =>
-         `<div class="item ${aditive.type}">
-          <span>${aditive.cod}</span>
-          <span>${aditive.aditive}</span>
-          <span>${aditive.description}</span>
-        </div>`)
-        .join('\n');
-    }
+    results.innerHTML = aditives.map(aditive =>
+        `<div class="item ${aditive.type}">
+          <div class="title">
+            <span>${emojis[aditive.type]} ${aditive.code}</span>
+          </div>
+          <div>${aditive.name || 'unknown'}${aditive.description ? ('(' + aditive.description + ')') : ''}</div>
+      </div>`)
+      .join('\n');
   }
-});
+};
+
+input.addEventListener('input', onInput);
+
+setTimeout(() => {
+  input.value = '431 542 220 110 111 200 120';
+  onInput();
+}, 500);
