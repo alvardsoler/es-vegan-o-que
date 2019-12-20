@@ -41,7 +41,7 @@ const onInput = () => {
 
 input.addEventListener('input', onInput);
 
-setTimeout(() => {
-  input.value = '431 542 220 110 111 200 120';
-  onInput();
-}, 500);
+// setTimeout(() => {
+//   input.value = '431 542 220 110 111 200 120';
+//   onInput();
+// }, 500);
