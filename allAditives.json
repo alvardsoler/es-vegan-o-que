@@ -1,1731 +1,2737 @@
-[{
-  "code": "100",
-  "name": "curcumins",
-  "_type": "colour",
-  "type": "vegan"
-}, {
-  "code": "100(i)",
-  "name": "curcumin",
-  "_type": "colour (yellow and orange)",
-  "type": "vegan"
-}, {
-  "code": "100(ii)",
-  "name": "turmeric",
-  "_type": "colour (yellow and orange)",
-  "type": "vegan"
-}, {
-  "code": "101",
-  "name": "riboflavins",
-  "_type": "",
-  "type": "vegan"
-}, {
-  "code": "101(i)",
-  "name": "riboflavin, synthetic (vitamin B2)",
-  "_type": "colour (yellow and orange)",
-  "type": "vegan"
-}, {
-  "code": "101(ii)",
-  "name": "Riboflavin-5'-phosphate",
-  "_type": "colour (yellow and orange)",
-  "type": "vegan"
-}, {
-  "code": "101(iii)",
-  "name": "riboflavin from Bacillus subtilis",
-  "_type": "colour (yellow and orange)",
-  "type": "vegan"
-}, {
-  "code": "102",
-  "name": "tartrazine",
-  "_type": "colour (yellow and orange) (FDA: FD&C Yellow #5)",
-  "type": "vegan"
-}, {
-  "code": "104",
-  "name": "Quinoline Yellow WS",
-  "_type": "colour (yellow and orange) (FDA: D&C Yellow #10)",
-  "type": "vegan"
-}, {
-  "code": "107",
-  "name": "Yellow 2G",
-  "_type": "colour (yellow and orange)",
-  "type": "vegan"
-}, {
-  "code": "110",
-  "name": "Sunset Yellow FCF",
-  "_type": "colour (yellow and orange) (FDA: FD&C Yellow #6)",
-  "type": "vegan"
-}, {
-  "code": "1103",
-  "name": "invertase",
-  "_type": "?",
-  "type": "vegan"
-}, {
-  "code": "1105",
-  "name": "lysozyme",
-  "_type": "preservative",
-  "type": "vegan"
-}, {
-  "code": "111",
-  "name": "Orange GGN. Delisted",
-  "_type": "colour (orange)",
-  "type": "vegan"
-}, {
-  "code": "120",
-  "name": "Cochineal",
-  "description": "A natural red colour derived from the bodies of pregnant scale insects.",
-  "type": "animal"
-}, {
-  "code": "1200",
-  "name": "polydextrose",
-  "_type": "humectant",
-  "type": "vegan"
-}, {
-  "code": "1201",
-  "name": "poly vinyl pyrrolidone",
-  "_type": "?",
-  "type": "vegan"
-}, {
-  "code": "1202",
-  "name": "polyvinylpolypyrrolidone",
-  "_type": "colour stabiliser",
-  "type": "vegan"
-}, {
-  "code": "122",
-  "name": "azorubine, carmoisine",
-  "_type": "colour (red) (FDA: Ext D&C Red #10)",
-  "type": "vegan"
-}, {
-  "code": "123",
-  "name": "amaranth",
-  "_type": "colour (red) (FDA: [DELISTED] Red #2)",
-  "type": "vegan"
-}, {
-  "code": "124",
-  "name": "Brilliant Scarlet 4R, Ponceau 4R",
-  "_type": "colour (FDA: Ext D&C Red #8)",
-  "type": "vegan"
-}, {
-  "code": "127",
-  "name": "erythrosine",
-  "_type": "colour (red) (FDA: FD&C Red #3)",
-  "type": "vegan"
-}, {
-  "code": "128",
-  "name": "Red 2G",
-  "_type": "colour",
-  "type": "vegan"
-}, {
-  "code": "129",
-  "name": "Allura red AC",
-  "_type": "colour (FDA: FD&C Red #40)",
-  "type": "vegan"
-}, {
-  "code": "131",
-  "name": "Patent blue V",
-  "_type": "colour (blue)",
-  "type": "vegan"
-}, {
-  "code": "132",
-  "name": "indigo carmine, indigotine",
-  "_type": "colour (blue) (FDA: FD&C Blue #2)",
-  "type": "vegan"
-}, {
-  "code": "133",
-  "name": "Brilliant blue FCF",
-  "_type": "colour (FDA: FD&C Blue #1)",
-  "type": "vegan"
-}, {
-  "code": "140",
-  "name": "chlorophylls",
-  "_type": "colour (green)",
-  "type": "vegan"
-}, {
-  "code": "1404",
-  "name": "oxidised starch",
-  "_type": "thickener, vegetable gum",
-  "type": "vegan"
-}, {
-  "code": "141",
-  "name": "Chlorophylls and chlorophyllins, copper complexes",
-  "_type": "",
-  "type": "vegan"
-}, {
-  "code": "1410",
-  "name": "monostarch phosphate",
-  "_type": "thickener, vegetable gum",
-  "type": "vegan"
-}, {
-  "code": "1412",
-  "name": "distarch phosphate",
-  "_type": "thickener, vegetable gum",
-  "type": "vegan"
-}, {
-  "code": "1413",
-  "name": "phosphated distarch phosphate",
-  "_type": "thickener, vegetable gum",
-  "type": "vegan"
-}, {
-  "code": "1414",
-  "name": "acetylated distarch phosphate",
-  "_type": "thickener, vegetable gum",
-  "type": "vegan"
-}, {
-  "code": "142",
-  "name": "Green S",
-  "_type": "colour (green)",
-  "type": "vegan"
-}, {
-  "code": "1420",
-  "name": "acetylated starch",
-  "_type": "thickener, vegetable gum",
-  "type": "vegan"
-}, {
-  "code": "1422",
-  "name": "acetylated distarch adipate",
-  "_type": "thickener, vegetable gum",
-  "type": "vegan"
-}, {
-  "code": "143",
-  "name": "Fast green FCF",
-  "_type": "colour (FDA: FD&C Green #3)",
-  "type": "vegan"
-}, {
-  "code": "1440",
-  "name": "hydroxypropyl starch",
-  "_type": "thickener, vegetable gum",
-  "type": "vegan"
-}, {
-  "code": "1442",
-  "name": "hydroxypropyl distarch phosphate",
-  "_type": "thickener, vegetable gum",
-  "type": "vegan"
-}, {
-  "code": "1450",
-  "name": "starch sodium octenylsuccinate",
-  "_type": "thickener, vegetable gum",
-  "type": "vegan"
-}, {
-  "code": "1451",
-  "name": "acetylated oxidised starch",
-  "_type": "thickener, vegetable gum",
-  "type": "vegan"
-}, {
-  "code": "150",
-  "name": "Caramels",
-  "_type": "",
-  "type": "vegan"
-}, {
-  "code": "1505",
-  "name": "triethyl citrate",
-  "_type": "thickener, vegetable gum",
-  "type": "vegan"
-}, {
-  "code": "150a",
-  "name": "caramel I – plain",
-  "_type": "colour (brown and black)",
-  "type": "vegan"
-}, {
-  "code": "150b",
-  "name": "caramel II – sulfite caramel",
-  "_type": "colour (brown and black)",
-  "type": "vegan"
-}, {
-  "code": "150c",
-  "name": "caramel III – ammonia caramel",
-  "_type": "colour (brown and black)",
-  "type": "vegan"
-}, {
-  "code": "150d",
-  "name": "caramel IV – sulfite ammonia caramel",
-  "_type": "colour (brown and black)",
-  "type": "vegan"
-}, {
-  "code": "151",
-  "name": "Brilliant Black BN (Black PN)",
-  "_type": "colour (brown and black)",
-  "type": "vegan"
-}, {
-  "code": "1518",
-  "name": "Glycerol Mono-, Di- and Tri-Acetate or Tracetin",
-  "description": "",
-  "type": "meaby"
-}, {
-  "code": "1520",
-  "name": "propylene glycol",
-  "_type": "humectant",
-  "type": "vegan"
-}, {
-  "code": "153",
-  "name": "Carbon Black",
-  "description": "",
-  "type": "meaby"
-}, {
-  "code": "154",
-  "name": "Brown FK",
-  "_type": "colour (brown and black)",
-  "type": "vegan"
-}, {
-  "code": "155",
-  "name": "Chocolate Brown HT",
-  "_type": "colour",
-  "type": "vegan"
-}, {
-  "code": "160a",
-  "name": "carotenes",
-  "_type": "",
-  "type": "vegan"
-}, {
-  "code": "160a(i)",
-  "name": "beta-carotene, synthetic",
-  "_type": "colour",
-  "type": "vegan"
-}, {
-  "code": "160a(ii)",
-  "name": "beta-carotene, vegetable",
-  "_type": "colour",
-  "type": "vegan"
-}, {
-  "code": "160a(iii)",
-  "name": "beta-carotene, Blakeslea trispora",
-  "_type": "colour",
-  "type": "vegan"
-}, {
-  "code": "160a(iv)",
-  "name": "beta-carotene, algae",
-  "_type": "colour",
-  "type": "vegan"
-}, {
-  "code": "160b",
-  "name": "annatto extracts",
-  "_type": "",
-  "type": "vegan"
-}, {
-  "code": "160b(i)",
-  "name": "annatto extracts, bixin-based",
-  "_type": "colour",
-  "type": "vegan"
-}, {
-  "code": "160b(ii)",
-  "name": "annatto extracts, norbixin-based",
-  "_type": "colour",
-  "type": "vegan"
-}, {
-  "code": "160c",
-  "name": "paprika oleoresin (paprika extract)",
-  "_type": "colour",
-  "type": "vegan"
-}, {
-  "code": "160d",
-  "name": "lycopenes",
-  "_type": "",
-  "type": "vegan"
-}, {
-  "code": "160d(i)",
-  "name": "lycopene, synthetic",
-  "_type": "colour",
-  "type": "vegan"
-}, {
-  "code": "160d(ii)",
-  "name": "lycopene, tomato",
-  "_type": "colour",
-  "type": "vegan"
-}, {
-  "code": "160d(iii)",
-  "name": "lycopene, Blakeslea trispora",
-  "_type": "colour",
-  "type": "vegan"
-}, {
-  "code": "160e",
-  "name": "beta-apo-8'-carotenal (C 30)",
-  "_type": "colour",
-  "type": "vegan"
-}, {
-  "code": "160f",
-  "name": "beta-apo-8'-carotenic acid ethyl ester",
-  "_type": "colour",
-  "type": "vegan"
-}, {
-  "code": "161b",
-  "name": "luteins",
-  "_type": "",
-  "type": "vegan"
-}, {
-  "code": "161b(i)",
-  "name": "lutein from Tagetes erecta",
-  "_type": "colour",
-  "type": "vegan"
-}, {
-  "code": "161b(ii)",
-  "name": "Tagetes extract",
-  "_type": "colour",
-  "type": "vegan"
-}, {
-  "code": "161g",
-  "name": "canthaxanthin",
-  "_type": "colour",
-  "type": "vegan"
-}, {
-  "code": "162",
-  "name": "beet red",
-  "_type": "colour",
-  "type": "vegan"
-}, {
-  "code": "163",
-  "name": "anthocyanins",
-  "_type": "colour",
-  "type": "vegan"
-}, {
-  "code": "163(ii)",
-  "name": "Grape skin extract",
-  "_type": "colour",
-  "type": "vegan"
-}, {
-  "code": "163(iii)",
-  "name": "Blackcurrant extract",
-  "_type": "colour",
-  "type": "vegan"
-}, {
-  "code": "163(iv)",
-  "name": "Purple corn colour",
-  "_type": "colour",
-  "type": "vegan"
-}, {
-  "code": "163(v)",
-  "name": "Red cabbage colour",
-  "_type": "colour",
-  "type": "vegan"
-}, {
-  "code": "170",
-  "name": "calcium carbonates",
-  "_type": "",
-  "type": "vegan"
-}, {
-  "code": "170(i)",
-  "name": "calcium carbonate",
-  "_type": "Acidity regulator, anticaking agent, stabilizer, surface colourant",
-  "type": "vegan"
-}, {
-  "code": "170(ii)",
-  "name": "calcium hydrogen carbonate",
-  "_type": "Acidity regulator, anticaking agent, stabilizer, surface colourant",
-  "type": "vegan"
-}, {
-  "code": "171",
-  "name": "titanium dioxide",
-  "_type": "colour (white)",
-  "type": "vegan"
-}, {
-  "code": "172",
-  "name": "iron oxides",
-  "_type": "",
-  "type": "vegan"
-}, {
-  "code": "172(i)",
-  "name": "iron oxide, black",
-  "_type": "colour",
-  "type": "vegan"
-}, {
-  "code": "172(ii)",
-  "name": "iron oxide, red",
-  "_type": "colour",
-  "type": "vegan"
-}, {
-  "code": "172(iii)",
-  "name": "iron oxide, yellow",
-  "_type": "colour",
-  "type": "vegan"
-}, {
-  "code": "173",
-  "name": "aluminium",
-  "_type": "colour (silver)",
-  "type": "vegan"
-}, {
-  "code": "174",
-  "name": "silver",
-  "_type": "colour (silver)",
-  "type": "vegan"
-}, {
-  "code": "175",
-  "name": "gold",
-  "_type": "colour (gold)",
-  "type": "vegan"
-}, {
-  "code": "180",
-  "name": "Lithol Rubine BK",
-  "_type": "colour",
-  "type": "vegan"
-}, {
-  "code": "181",
-  "name": "tannins",
-  "_type": "colour, emulsifier, stabiliser, thickener",
-  "type": "vegan"
-}, {
-  "code": "200",
-  "name": "sorbic acid",
-  "_type": "preservative",
-  "type": "vegan"
-}, {
-  "code": "202",
-  "name": "potassium sorbate",
-  "_type": "preservative",
-  "type": "vegan"
-}, {
-  "code": "203",
-  "name": "calcium sorbate",
-  "_type": "preservative",
-  "type": "vegan"
-}, {
-  "code": "210",
-  "name": "benzoic acid",
-  "_type": "preservative",
-  "type": "vegan"
-}, {
-  "code": "211",
-  "name": "sodium benzoate",
-  "_type": "preservative",
-  "type": "vegan"
-}, {
-  "code": "212",
-  "name": "potassium benzoate",
-  "_type": "preservative",
-  "type": "vegan"
-}, {
-  "code": "213",
-  "name": "calcium benzoate",
-  "_type": "preservative",
-  "type": "vegan"
-}, {
-  "code": "214",
-  "name": "ethyl para-hydroxybenzoate",
-  "_type": "preservative",
-  "type": "vegan"
-}, {
-  "code": "215",
-  "name": "sodium ethyl para-hydroxybenzoate",
-  "_type": "preservative",
-  "type": "vegan"
-}, {
-  "code": "218",
-  "name": "methylparaben (methyl para-hydroxybenzoate)",
-  "_type": "preservative",
-  "type": "vegan"
-}, {
-  "code": "219",
-  "name": "sodium methyl para-hydroxybenzoate",
-  "_type": "preservative",
-  "type": "vegan"
-}, {
-  "code": "220",
-  "name": "sulfur dioxide",
-  "_type": "preservative, antioxidant",
-  "type": "vegan"
-}, {
-  "code": "221",
-  "name": "sodium sulfite",
-  "_type": "preservative, antioxidant",
-  "type": "vegan"
-}, {
-  "code": "222",
-  "name": "sodium bisulfite (sodium hydrogen sulfite)",
-  "_type": "preservative, antioxidant",
-  "type": "vegan"
-}, {
-  "code": "223",
-  "name": "sodium metabisulfite",
-  "_type": "preservative, antioxidant, bleaching agent",
-  "type": "vegan"
-}, {
-  "code": "224",
-  "name": "potassium metabisulfite",
-  "_type": "preservative, antioxidant",
-  "type": "vegan"
-}, {
-  "code": "226",
-  "name": "calcium sulfite",
-  "_type": "preservative, antioxidant",
-  "type": "vegan"
-}, {
-  "code": "227",
-  "name": "calcium bisulfite, calcium hydrogen sulfite",
-  "_type": "preservative, antioxidant",
-  "type": "vegan"
-}, {
-  "code": "228",
-  "name": "potassium bisulfite, potassium hydrogen sulfite",
-  "_type": "preservative, antioxidant",
-  "type": "vegan"
-}, {
-  "code": "230",
-  "name": "diphenyl (biphenyl)",
-  "_type": "preservative",
-  "type": "vegan"
-}, {
-  "code": "231",
-  "name": "orthophenyl phenol (2-hydroxybiphenyl)",
-  "_type": "preservative",
-  "type": "vegan"
-}, {
-  "code": "232",
-  "name": "sodium orthophenyl phenol",
-  "_type": "preservative",
-  "type": "vegan"
-}, {
-  "code": "234",
-  "name": "nisin",
-  "_type": "preservative",
-  "type": "vegan"
-}, {
-  "code": "235",
-  "name": "natamycin (pimaricin)",
-  "_type": "preservative",
-  "type": "vegan"
-}, {
-  "code": "239",
-  "name": "hexamethylene tetramine (hexamine)",
-  "_type": "preservative",
-  "type": "vegan"
-}, {
-  "code": "242",
-  "name": "dimethyl dicarbonate",
-  "_type": "preservative",
-  "type": "vegan"
-}, {
-  "code": "249",
-  "name": "potassium nitrite",
-  "_type": "preservative, colour fixative",
-  "type": "vegan"
-}, {
-  "code": "250",
-  "name": "sodium nitrite",
-  "_type": "preservative, colour fixative",
-  "type": "vegan"
-}, {
-  "code": "251",
-  "name": "sodium nitrate",
-  "_type": "preservative, colour fixative",
-  "type": "vegan"
-}, {
-  "code": "252",
-  "name": "Potassium Nitrate",
-  "description": "",
-  "type": "meaby"
-}, {
-  "code": "260",
-  "name": "glacial acetic acid",
-  "_type": "preservative, acidity regulator",
-  "type": "vegan"
-}, {
-  "code": "261",
-  "name": "potassium acetates",
-  "_type": "preservative, acidity regulator",
-  "type": "vegan"
-}, {
-  "code": "262",
-  "name": "sodium acetate, sodium hydrogen acetate",
-  "_type": "preservative, acidity regulator",
-  "type": "vegan"
-}, {
-  "code": "263",
-  "name": "calcium acetate",
-  "_type": "preservative, acidity regulator",
-  "type": "vegan"
-}, {
-  "code": "270",
-  "name": "Lactic Acid",
-  "description": "Lactic acid is bitter-tasting acid that forms when certain bacteria combine with lactose (milk or sugar). It is used to impart a tart flavour, as well as in the preservation of some foods. It occurs naturally in the souring of milk and can be found in foods such as cheese (used in coagulation) and yogurt. It’s also used in the production of acid-fermented foods such as pickles and sauerkraut.",
-  "type": "meaby"
-}, {
-  "code": "280",
-  "name": "propionic acid",
-  "_type": "preservative",
-  "type": "vegan"
-}, {
-  "code": "281",
-  "name": "sodium propionate",
-  "_type": "preservative",
-  "type": "vegan"
-}, {
-  "code": "282",
-  "name": "calcium propionate",
-  "_type": "preservative",
-  "type": "vegan"
-}, {
-  "code": "283",
-  "name": "potassium propionate",
-  "_type": "preservative",
-  "type": "vegan"
-}, {
-  "code": "284",
-  "name": "boric acid",
-  "_type": "preservative",
-  "type": "vegan"
-}, {
-  "code": "285",
-  "name": "sodium tetraborate, borax",
-  "_type": "preservative",
-  "type": "vegan"
-}, {
-  "code": "290",
-  "name": "carbon dioxide",
-  "_type": "acidity regulator, propellant",
-  "type": "vegan"
-}, {
-  "code": "296",
-  "name": "malic acid",
-  "_type": "acidity regulator",
-  "type": "vegan"
-}, {
-  "code": "297",
-  "name": "fumaric acid",
-  "_type": "acidity regulator",
-  "type": "vegan"
-}, {
-  "code": "300",
-  "name": "ascorbic acid",
-  "_type": "antioxidant (water-soluble)",
-  "type": "vegan"
-}, {
-  "code": "301",
-  "name": "sodium ascorbate",
-  "_type": "antioxidant (water-soluble)",
-  "type": "vegan"
-}, {
-  "code": "302",
-  "name": "calcium ascorbate",
-  "_type": "antioxidant (water-soluble)",
-  "type": "vegan"
-}, {
-  "code": "304",
-  "name": "ascorbyl palmitate, ascorbyl stearate",
-  "_type": "antioxidant (fat soluble)",
-  "type": "vegan"
-}, {
-  "code": "307",
-  "name": "tocopherols",
-  "_type": "",
-  "type": "vegan"
-}, {
-  "code": "307a",
-  "name": "l-alpha-tocopherol",
-  "_type": "antioxidant",
-  "type": "vegan"
-}, {
-  "code": "307b",
-  "name": "mixed tocopherol concentrate",
-  "_type": "antioxidant",
-  "type": "vegan"
-}, {
-  "code": "307c",
-  "name": "dl-alpha-tocopherol",
-  "_type": "antioxidant",
-  "type": "vegan"
-}, {
-  "code": "308",
-  "name": "gamma-tocopherol(synthetic)",
-  "_type": "antioxidant",
-  "type": "vegan"
-}, {
-  "code": "309",
-  "name": "delta-tocopherol(synthetic)",
-  "_type": "antioxidant",
-  "type": "vegan"
-}, {
-  "code": "310",
-  "name": "propyl gallate",
-  "_type": "antioxidant",
-  "type": "vegan"
-}, {
-  "code": "311",
-  "name": "octyl gallate",
-  "_type": "antioxidant",
-  "type": "vegan"
-}, {
-  "code": "312",
-  "name": "dodecyl gallate",
-  "_type": "antioxidant",
-  "type": "vegan"
-}, {
-  "code": "315",
-  "name": "erythorbic acid",
-  "_type": "antioxidant",
-  "type": "vegan"
-}, {
-  "code": "316",
-  "name": "sodium erythorbate",
-  "_type": "antioxidant",
-  "type": "vegan"
-}, {
-  "code": "320",
-  "name": "butylated hydroxyanisole (BHA)",
-  "_type": "antioxidant (fat soluble)",
-  "type": "vegan"
-}, {
-  "code": "321",
-  "name": "butylated hydroxytoluene (BHT)",
-  "_type": "antioxidant (fat soluble)",
-  "type": "vegan"
-}, {
-  "code": "322",
-  "name": "Lecithin",
-  "description": "An emulsifier (which allows water & oils to mix); is mostly derived from soy beans, seeds, peanuts and maize. Although it may be derived from eggs, in this form it is declared as ‘egg yolk’ and not as ‘322’.",
-  "type": "meaby"
-}, {
-  "code": "325",
-  "name": "Sodium Lactate",
-  "description": "A derivative of lactic acid.",
-  "type": "meaby"
-}, {
-  "code": "326",
-  "name": "Potassium Lactate",
-  "description": "A derivative of lactic acid.",
-  "type": "meaby"
-}, {
-  "code": "327",
-  "name": "Calcium Lactate",
-  "description": "A derivative of lactic acid.",
-  "type": "meaby"
-}, {
-  "code": "328",
-  "name": "Ammonium Lactate",
-  "description": "A derivative of lactic acid.",
-  "type": "meaby"
-}, {
-  "code": "329",
-  "name": "Magnesium Lactate",
-  "description": "A derivative of lactic acid.",
-  "type": "meaby"
-}, {
-  "code": "330",
-  "name": "citric acid",
-  "_type": "food acid",
-  "type": "vegan"
-}, {
-  "code": "331",
-  "name": "sodium citrates",
-  "_type": "food acid",
-  "type": "vegan"
-}, {
-  "code": "332",
-  "name": "potassium citrates",
-  "_type": "food acid",
-  "type": "vegan"
-}, {
-  "code": "333",
-  "name": "calcium citrates",
-  "_type": "food acid, firming agent",
-  "type": "vegan"
-}, {
-  "code": "334",
-  "name": "L(+)-tartaric acid",
-  "_type": "food acid",
-  "type": "vegan"
-}, {
-  "code": "335",
-  "name": "sodium tartrates",
-  "_type": "food acid",
-  "type": "vegan"
-}, {
-  "code": "336",
-  "name": "potassium tartrates",
-  "_type": "food acid",
-  "type": "vegan"
-}, {
-  "code": "337",
-  "name": "potassium sodium tartrate",
-  "_type": "food acid",
-  "type": "vegan"
-}, {
-  "code": "338",
-  "name": "phosphoric acid",
-  "_type": "food acid",
-  "type": "vegan"
-}, {
-  "code": "339",
-  "name": "sodium phosphates",
-  "_type": "mineral salt",
-  "type": "vegan"
-}, {
-  "code": "340",
-  "name": "potassium phosphates",
-  "_type": "mineral salt",
-  "type": "vegan"
-}, {
-  "code": "341",
-  "name": "calcium phosphates",
-  "_type": "mineral salt, anti-caking agent, firming agent",
-  "type": "vegan"
-}, {
-  "code": "343",
-  "name": "magnesium phosphates",
-  "_type": "mineral salt, anti-caking agent",
-  "type": "vegan"
-}, {
-  "code": "350",
-  "name": "sodium malates",
-  "_type": "food acid",
-  "type": "vegan"
-}, {
-  "code": "351",
-  "name": "potassium malate",
-  "_type": "food acid",
-  "type": "vegan"
-}, {
-  "code": "352",
-  "name": "calcium malates",
-  "_type": "food acid",
-  "type": "vegan"
-}, {
-  "code": "353",
-  "name": "metatartaric acid",
-  "_type": "food acid, emulsifier",
-  "type": "vegan"
-}, {
-  "code": "354",
-  "name": "calcium tartrate",
-  "_type": "food acid, emulsifier",
-  "type": "vegan"
-}, {
-  "code": "355",
-  "name": "adipic acid",
-  "_type": "food acid",
-  "type": "vegan"
-}, {
-  "code": "356",
-  "name": "sodium adipate",
-  "_type": "food acid",
-  "type": "vegan"
-}, {
-  "code": "357",
-  "name": "potassium adipate",
-  "_type": "food acid",
-  "type": "vegan"
-}, {
-  "code": "363",
-  "name": "succinic acid",
-  "_type": "food acid",
-  "type": "vegan"
-}, {
-  "code": "380",
-  "name": "triammonium citrate",
-  "_type": "food acid",
-  "type": "vegan"
-}, {
-  "code": "385",
-  "name": "calcium disodium EDTA",
-  "_type": "preservative",
-  "type": "vegan"
-}, {
-  "code": "400",
-  "name": "alginic acid",
-  "_type": "thickener, vegetable gum, stabilizer, gelling agent, emulsifier",
-  "type": "vegan"
-}, {
-  "code": "401",
-  "name": "sodium alginate",
-  "_type": "thickener, vegetable gum, stabilizer, gelling agent, emulsifier",
-  "type": "vegan"
-}, {
-  "code": "402",
-  "name": "potassium alginate",
-  "_type": "thickener, vegetable gum, stabilizer, gelling agent, emulsifier",
-  "type": "vegan"
-}, {
-  "code": "403",
-  "name": "ammonium alginate",
-  "_type": "thickener, vegetable gum, stabilizer, gelling agent, emulsifier",
-  "type": "vegan"
-}, {
-  "code": "404",
-  "name": "calcium alginate",
-  "_type": "thickener, vegetable gum, stabilizer, gelling agent, emulsifier",
-  "type": "vegan"
-}, {
-  "code": "405",
-  "name": "propylene glycol alginate, propane-1,2-diol alginate",
-  "_type": "thickener, vegetable gum, stabilizer, emulsifier",
-  "type": "vegan"
-}, {
-  "code": "406",
-  "name": "agar",
-  "_type": "thickener, vegetable gum, stabilizer, gelling agent",
-  "type": "vegan"
-}, {
-  "code": "407",
-  "name": "carrageenan",
-  "_type": "thickener, vegetable gum, stabilizer, gelling agent, emulsifier",
-  "type": "vegan"
-}, {
-  "code": "407a",
-  "name": "processed eucheuma seaweed",
-  "_type": "thickener, vegetable gum, stabilizer, gelling agent, emulsifier",
-  "type": "vegan"
-}, {
-  "code": "410",
-  "name": "locust bean gum",
-  "_type": "thickener, vegetable gum, stabilizer, gelling agent, emulsifier",
-  "type": "vegan"
-}, {
-  "code": "412",
-  "name": "guar gum",
-  "_type": "thickener, vegetable gum, stabilizer",
-  "type": "vegan"
-}, {
-  "code": "413",
-  "name": "tragacanth",
-  "_type": "thickener, vegetable gum, stabilizer, emulsifier",
-  "type": "vegan"
-}, {
-  "code": "414",
-  "name": "gum acacia, gum arabic",
-  "_type": "thickener, vegetable gum, stabilizer, emulsifier",
-  "type": "vegan"
-}, {
-  "code": "415",
-  "name": "xanthan gum",
-  "_type": "thickener, vegetable gum, stabilizer",
-  "type": "vegan"
-}, {
-  "code": "416",
-  "name": "karaya gum",
-  "_type": "thickener, vegetable gum, stabilizer, emulsifier",
-  "type": "vegan"
-}, {
-  "code": "417",
-  "name": "tara gum",
-  "_type": "thickener, vegetable gum, stabilizer",
-  "type": "vegan"
-}, {
-  "code": "418",
-  "name": "gellan gum",
-  "_type": "thickener, vegetable gum, stabilizer, emulsifier",
-  "type": "vegan"
-}, {
-  "code": "420",
-  "name": "sorbitol",
-  "_type": "humectant, emulsifier, sweetener",
-  "type": "vegan"
-}, {
-  "code": "421",
-  "name": "mannitol",
-  "_type": "humectant, anti-caking agent, sweetener",
-  "type": "vegan"
-}, {
-  "code": "422",
-  "name": "Glycerol/Glycerin",
-  "description": "May be produced from animal fats, synthesised from propylene or from fermentation of sugars.",
-  "type": "meaby"
-}, {
-  "code": "425",
-  "name": "konjac, konjac gum, konjac glucomannate",
-  "_type": "thickener, vegetable gum",
-  "type": "vegan"
-}, {
-  "code": "428",
-  "name": "gelatin, gelatine (not classified as an additive)",
-  "_type": "carrier, emulsifier, gelling agent, stabiliser, thickener",
-  "type": "vegan"
-}, {
-  "code": "430",
-  "name": "Polyoxyethylene (8) Stearate",
-  "description": "",
-  "type": "meaby"
-}, {
-  "code": "431",
-  "name": "Polyoxyethylene (40) Stearate",
-  "description": "",
-  "type": "meaby"
-}, {
-  "code": "432",
-  "name": "Polyoxyethylene (20) Sorbitan Monolaurate or Polysorbate 20",
-  "description": "",
-  "type": "meaby"
-}, {
-  "code": "433",
-  "name": "Polyoxyethylene (20) Sorbitan Mono-Oleate or Polysorbate 80",
-  "description": "",
-  "type": "meaby"
-}, {
-  "code": "434",
-  "name": "Polyoxyethylene (20) Sorbitan Monopalmitate",
-  "description": "",
-  "type": "meaby"
-}, {
-  "code": "435",
-  "name": "Polyoxyethylene (20) Sorbitan Monostearate or Polysorbate 60",
-  "description": "",
-  "type": "meaby"
-}, {
-  "code": "436",
-  "name": "Polyoxyethylene (20) Sorbitan Tristearate or Polysorbate 65",
-  "description": "",
-  "type": "meaby"
-}, {
-  "code": "440",
-  "name": "pectin",
-  "_type": "vegetable gum, emulsifier",
-  "type": "vegan"
-}, {
-  "code": "441",
-  "name": "Gelatine",
-  "description": "A thickening, stabilising emulsifying agent made by boiling animal (usually cattle or pigs) skin, ligaments, bones, sinews or other tissue.",
-  "type": "animal"
-}, {
-  "code": "442",
-  "name": "Ammonium Phosphatides",
-  "description": "",
-  "type": "meaby"
-}, {
-  "code": "444",
-  "name": "sucrose acetate isobutyrate",
-  "_type": "emulsifier, stabiliser",
-  "type": "vegan"
-}, {
-  "code": "445",
-  "name": "glycerol esters of wood rosins",
-  "_type": "emulsifier",
-  "type": "vegan"
-}, {
-  "code": "450",
-  "name": "diphosphates",
-  "_type": "mineral salt, emulsifier",
-  "type": "vegan"
-}, {
-  "code": "451",
-  "name": "triphosphates",
-  "_type": "mineral salt, emulsifier",
-  "type": "vegan"
-}, {
-  "code": "452",
-  "name": "polyphosphates",
-  "_type": "mineral salt, emulsifier",
-  "type": "vegan"
-}, {
-  "code": "459",
-  "name": "beta-cyclodextrin",
-  "_type": "emulsifier",
-  "type": "vegan"
-}, {
-  "code": "460",
-  "name": "powdered cellulose, microcrystalline cellulose",
-  "_type": "anti-caking agent",
-  "type": "vegan"
-}, {
-  "code": "461",
-  "name": "methylcellulose",
-  "_type": "thickener, emulsifier, vegetable gum",
-  "type": "vegan"
-}, {
-  "code": "463",
-  "name": "hydroxypropyl cellulose",
-  "_type": "thickener, vegetable gum, emulsifier",
-  "type": "vegan"
-}, {
-  "code": "464",
-  "name": "hydroxypropyl methylcellulose",
-  "_type": "thickener, vegetable gum, emulsifier",
-  "type": "vegan"
-}, {
-  "code": "465",
-  "name": "methyl ethyl cellulose, ethyl methyl cellulose",
-  "_type": "thickener, vegetable gum, emulsifier",
-  "type": "vegan"
-}, {
-  "code": "466",
-  "name": "sodium carboxymethylcellulose",
-  "_type": "emulsifier",
-  "type": "vegan"
-}, {
-  "code": "469",
-  "name": "Sodium Caseinate",
-  "description": "An emulsifier, stabiliser & binder, derived from cow’s milk.",
-  "type": "animal"
-}, {
-  "code": "470a",
-  "name": "sodium, potassium and calcium salts of fatty acids",
-  "_type": "emulsifier, stabiliser, anti-caking agent",
-  "type": "vegan"
-}, {
-  "code": "470b",
-  "name": "magnesium salts of fatty acids",
-  "_type": "emulsifier, stabiliser, anti-caking agent",
-  "type": "vegan"
-}, {
-  "code": "471",
-  "name": "Mono- and Di-Glycerides of Fatty Acids",
-  "description": "",
-  "type": "meaby"
-}, {
-  "code": "472a",
-  "name": "acetic acid esters of mono- and diglycerides of fatty acids",
-  "_type": "emulsifier",
-  "type": "vegan"
-}, {
-  "code": "472b",
-  "name": "lactic acid esters of mono- and diglycerides of fatty acids",
-  "_type": "emulsifier",
-  "type": "vegan"
-}, {
-  "code": "472c",
-  "name": "citric acid esters of mono- and diglycerides of fatty acids",
-  "_type": "emulsifier",
-  "type": "vegan"
-}, {
-  "code": "472d",
-  "name": "tartaric acid esters of mono- and diglycerides of fatty acids",
-  "_type": "emulsifier",
-  "type": "vegan"
-}, {
-  "code": "472e",
-  "name": "diacetyltartaric acid esters of mono- and diglycerides of fatty acids",
-  "_type": "emulsifier",
-  "type": "vegan"
-}, {
-  "code": "472f",
-  "name": "mixed acetic and tartaric acid esters of mono- and diglycerides of fatty acids",
-  "_type": "emulsifier",
-  "type": "vegan"
-}, {
-  "code": "473",
-  "name": "Sucrose Esters of Fatty Acids",
-  "description": "",
-  "type": "meaby"
-}, {
-  "code": "474",
-  "name": "Sucroglycerides",
-  "description": "",
-  "type": "meaby"
-}, {
-  "code": "475",
-  "name": "Polyglycerol Esters of Fatty Acids",
-  "description": "",
-  "type": "meaby"
-}, {
-  "code": "476",
-  "name": "Polyglycerol Esters of Interesterified Ricinoleic Acid",
-  "description": "",
-  "type": "meaby"
-}, {
-  "code": "477",
-  "name": "Propylene Glycol Mono- and Di-Esters",
-  "description": "",
-  "type": "meaby"
-}, {
-  "code": "478",
-  "name": "Lactylated Fatty Acid Esters of Glycerol and Propane-1,2 Diol",
-  "description": "",
-  "type": "meaby"
-}, {
-  "code": "479b",
-  "name": "thermally oxidised soya bean oil",
-  "_type": "emulsifier",
-  "type": "vegan"
-}, {
-  "code": "481",
-  "name": "Sodium Oleyl or Stearoyl Lactylate",
-  "description": "",
-  "type": "meaby"
-}, {
-  "code": "482",
-  "name": "Calcium Oleyl or Stearoyl Lactylate",
-  "description": "",
-  "type": "meaby"
-}, {
-  "code": "483",
-  "name": "Stearyl Tartrate",
-  "description": "",
-  "type": "meaby"
-}, {
-  "code": "491",
-  "name": "Sorbitan Monostearate",
-  "description": "",
-  "type": "meaby"
-}, {
-  "code": "492",
-  "name": "Sorbitan Tristearate",
-  "description": "",
-  "type": "meaby"
-}, {
-  "code": "493",
-  "name": "Sorbitan Monolaurate",
-  "description": "",
-  "type": "meaby"
-}, {
-  "code": "494",
-  "name": "Sorbitan Mono-Oleate",
-  "description": "",
-  "type": "meaby"
-}, {
-  "code": "495",
-  "name": "Sorbitan Monopalmitate",
-  "description": "",
-  "type": "meaby"
-}, {
-  "code": "500",
-  "name": "sodium carbonate, sodium bicarbonate (E500ii)",
-  "_type": "mineral salt",
-  "type": "vegan"
-}, {
-  "code": "501",
-  "name": "potassium carbonate, potassium bicarbonate",
-  "_type": "mineral salt",
-  "type": "vegan"
-}, {
-  "code": "503",
-  "name": "ammonium carbonate, ammonium bicarbonate",
-  "_type": "mineral salt",
-  "type": "vegan"
-}, {
-  "code": "504",
-  "name": "magnesium carbonate",
-  "_type": "anti-caking agent, mineral salt",
-  "type": "vegan"
-}, {
-  "code": "507",
-  "name": "hydrochloric acid",
-  "_type": "acidity regulator",
-  "type": "vegan"
-}, {
-  "code": "508",
-  "name": "potassium chloride",
-  "_type": "mineral salt",
-  "type": "vegan"
-}, {
-  "code": "509",
-  "name": "calcium chloride",
-  "_type": "mineral salt",
-  "type": "vegan"
-}, {
-  "code": "511",
-  "name": "magnesium chloride",
-  "_type": "mineral salt",
-  "type": "vegan"
-}, {
-  "code": "512",
-  "name": "stannous chloride",
-  "_type": "colour retention agent, antioxidant",
-  "type": "vegan"
-}, {
-  "code": "513",
-  "name": "sulfuric acid",
-  "_type": "acidity regulator",
-  "type": "vegan"
-}, {
-  "code": "514",
-  "name": "sodium sulfate",
-  "_type": "mineral salt",
-  "type": "vegan"
-}, {
-  "code": "515",
-  "name": "potassium sulfate",
-  "_type": "mineral salt, seasoning",
-  "type": "vegan"
-}, {
-  "code": "516",
-  "name": "calcium sulfate",
-  "_type": "flour treatment agent, mineral salt, sequestrant, improving agent, firming agent",
-  "type": "vegan"
-}, {
-  "code": "517",
-  "name": "ammonium sulfate",
-  "_type": "mineral salt, improving agent",
-  "type": "vegan"
-}, {
-  "code": "520",
-  "name": "aluminium sulfate",
-  "_type": "mineral salt",
-  "type": "vegan"
-}, {
-  "code": "521",
-  "name": "aluminium sodium sulfate",
-  "_type": "mineral salt",
-  "type": "vegan"
-}, {
-  "code": "522",
-  "name": "aluminium potassium sulfate",
-  "_type": "mineral salt",
-  "type": "vegan"
-}, {
-  "code": "523",
-  "name": "aluminium ammonium sulfate",
-  "_type": "mineral salt",
-  "type": "vegan"
-}, {
-  "code": "524",
-  "name": "sodium hydroxide",
-  "_type": "mineral salt",
-  "type": "vegan"
-}, {
-  "code": "525",
-  "name": "potassium hydroxide",
-  "_type": "mineral salt",
-  "type": "vegan"
-}, {
-  "code": "526",
-  "name": "calcium hydroxide",
-  "_type": "mineral salt",
-  "type": "vegan"
-}, {
-  "code": "527",
-  "name": "ammonium hydroxide",
-  "_type": "mineral salt",
-  "type": "vegan"
-}, {
-  "code": "528",
-  "name": "magnesium hydroxide",
-  "_type": "mineral salt",
-  "type": "vegan"
-}, {
-  "code": "529",
-  "name": "calcium oxide",
-  "_type": "mineral salt",
-  "type": "vegan"
-}, {
-  "code": "530",
-  "name": "magnesium oxide",
-  "_type": "anti-caking agent",
-  "type": "vegan"
-}, {
-  "code": "535",
-  "name": "sodium ferrocyanide",
-  "_type": "anti-caking agent",
-  "type": "vegan"
-}, {
-  "code": "536",
-  "name": "potassium ferrocyanide",
-  "_type": "anti-caking agent",
-  "type": "vegan"
-}, {
-  "code": "538",
-  "name": "calcium ferrocyanide",
-  "_type": "anti-caking agent",
-  "type": "vegan"
-}, {
-  "code": "541",
-  "name": "sodium aluminium phosphate",
-  "_type": "acidity regulator, emulsifier",
-  "type": "vegan"
-}, {
-  "code": "542",
-  "name": "Bone Phosphate",
-  "description": "An anti-caking agent made from the degreased steam-extract from animal bones.",
-  "type": "animal"
-}, {
-  "code": "551",
-  "name": "silicon dioxide",
-  "_type": "anti-caking agent",
-  "type": "vegan"
-}, {
-  "code": "552",
-  "name": "calcium silicate",
-  "_type": "anti-caking agent",
-  "type": "vegan"
-}, {
-  "code": "553a",
-  "name": "magnesium silicate",
-  "_type": "anti-caking agent",
-  "type": "vegan"
-}, {
-  "code": "553b",
-  "name": "talc",
-  "_type": "anti-caking agent",
-  "type": "vegan"
-}, {
-  "code": "554",
-  "name": "sodium aluminosilicate (sodium aluminium silicate)",
-  "_type": "anti-caking agent",
-  "type": "vegan"
-}, {
-  "code": "555",
-  "name": "potassium aluminium silicate",
-  "_type": "anti-caking agent",
-  "type": "vegan"
-}, {
-  "code": "556",
-  "name": "calcium aluminosilicate (calcium aluminium silicate)",
-  "_type": "anti-caking agent",
-  "type": "vegan"
-}, {
-  "code": "558",
-  "name": "bentonite",
-  "_type": "anti-caking agent",
-  "type": "vegan"
-}, {
-  "code": "559",
-  "name": "kaolin, aluminium silicate",
-  "_type": "anti-caking agent",
-  "type": "vegan"
-}, {
-  "code": "570",
-  "name": "Stearic Acid",
-  "description": "",
-  "type": "meaby"
-}, {
-  "code": "572",
-  "name": "Magnesium Stearate",
-  "description": "",
-  "type": "meaby"
-}, {
-  "code": "575",
-  "name": "glucono delta-lactone",
-  "_type": "acidity regulator",
-  "type": "vegan"
-}, {
-  "code": "576",
-  "name": "sodium gluconate",
-  "_type": "stabiliser",
-  "type": "vegan"
-}, {
-  "code": "577",
-  "name": "potassium gluconate",
-  "_type": "stabiliser",
-  "type": "vegan"
-}, {
-  "code": "578",
-  "name": "calcium gluconate",
-  "_type": "acidity regulator",
-  "type": "vegan"
-}, {
-  "code": "579",
-  "name": "ferrous gluconate",
-  "_type": "colour retention agent",
-  "type": "vegan"
-}, {
-  "code": "585",
-  "name": "Ferrous Lactate",
-  "description": "",
-  "type": "meaby"
-}, {
-  "code": "620",
-  "name": "glutamic acid",
-  "_type": "flavour enhancer",
-  "type": "vegan"
-}, {
-  "code": "621",
-  "name": "monosodium glutamate (MSG)",
-  "_type": "flavour enhancer",
-  "type": "vegan"
-}, {
-  "code": "622",
-  "name": "monopotassium glutamate",
-  "_type": "flavour enhancer",
-  "type": "vegan"
-}, {
-  "code": "623",
-  "name": "calcium diglutamate",
-  "_type": "flavour enhancer",
-  "type": "vegan"
-}, {
-  "code": "624",
-  "name": "monoammonium glutamate",
-  "_type": "flavour enhancer",
-  "type": "vegan"
-}, {
-  "code": "625",
-  "name": "magnesium diglutamate",
-  "_type": "flavour enhancer",
-  "type": "vegan"
-}, {
-  "code": "627",
-  "name": "Disodium 5′-Guanylate",
-  "description": "A flavour enhancer, isolated from sardines or yeast extract.",
-  "type": "meaby"
-}, {
-  "code": "628",
-  "name": "dipotassium guanylate",
-  "_type": "flavour enhancer",
-  "type": "vegan"
-}, {
-  "code": "629",
-  "name": "calcium guanylate",
-  "_type": "flavour enhancer",
-  "type": "vegan"
-}, {
-  "code": "630",
-  "name": "Inosinic Acid",
-  "description": "",
-  "type": "meaby"
-}, {
-  "code": "631",
-  "name": "Disodium Inosinate",
-  "description": "A flavour enhancer, often prepared from meat extract and dried sardines. It can also be a synthetic product made via a microbial synthesis process that begins with a vegetable source.",
-  "type": "meaby"
-}, {
-  "code": "632",
-  "name": "dipotassium inosinate",
-  "_type": "flavour enhancer",
-  "type": "vegan"
-}, {
-  "code": "633",
-  "name": "calcium inosinate",
-  "_type": "flavour enhancer",
-  "type": "vegan"
-}, {
-  "code": "634",
-  "name": "calcium 5'-ribonucleotides",
-  "_type": "flavour enhancer",
-  "type": "vegan"
-}, {
-  "code": "635",
-  "name": "Sodium 5′-Ribonucleotides",
-  "description": "Flavour enhancer.",
-  "type": "meaby"
-}, {
-  "code": "640",
-  "name": "Glycine and its Sodium Salt",
-  "description": "",
-  "type": "meaby"
-}, {
-  "code": "650",
-  "name": "zinc acetate",
-  "_type": "flavour enhancer",
-  "type": "vegan"
-}, {
-  "code": "900",
-  "name": "dimethylpolysiloxane",
-  "_type": "emulsifier, anti-caking agent",
-  "type": "vegan"
-}, {
-  "code": "901",
-  "name": "Beeswax (white & yellow)",
-  "description": "A glazing and polishing agent made from bee honeycomb.",
-  "type": "animal"
-}, {
-  "code": "902",
-  "name": "candelilla wax",
-  "_type": "glazing agent",
-  "type": "vegan"
-}, {
-  "code": "903",
-  "name": "carnauba wax",
-  "_type": "glazing agent",
-  "type": "vegan"
-}, {
-  "code": "904",
-  "name": "Shellac",
-  "description": "Glazing agent obtained from the resin produced by the lac insect.",
-  "type": "animal"
-}, {
-  "code": "905",
-  "name": "paraffins",
-  "_type": "glazing agent",
-  "type": "vegan"
-}, {
-  "code": "910",
-  "name": "L-Cysteine",
-  "description": "A flour treatment agent that can be extracted from duck and chicken feathers.",
-  "type": "meaby"
-}, {
-  "code": "912",
-  "name": "montanic acid esters",
-  "_type": "humectant",
-  "type": "vegan"
-}, {
-  "code": "913",
-  "name": "Lanolin",
-  "description": "A yellow waxy substance extracted from sheep’s wool.",
-  "type": "animal"
-}, {
-  "code": "914",
-  "name": "oxidised polyethylene wax",
-  "_type": "humectant",
-  "type": "vegan"
-}, {
-  "code": "920",
-  "name": "L-Cysteine Monohydrochloride",
-  "description": "L-Cysteine is a flour treatment agent that can be extracted from duck and chicken feathers.",
-  "type": "meaby"
-}, {
-  "code": "921",
-  "name": "L-Cysteine Hydrochloride Monohydrate",
-  "description": "L-Cysteine is a flour treatment agent that can be extracted from duck and chicken feathers.",
-  "type": "meaby"
-}, {
-  "code": "927b",
-  "name": "carbamide",
-  "_type": "flour treatment agent",
-  "type": "vegan"
-}, {
-  "code": "938",
-  "name": "argon",
-  "_type": "propellant",
-  "type": "vegan"
-}, {
-  "code": "939",
-  "name": "helium",
-  "_type": "propellant",
-  "type": "vegan"
-}, {
-  "code": "941",
-  "name": "nitrogen",
-  "_type": "propellant",
-  "type": "vegan"
-}, {
-  "code": "942",
-  "name": "nitrous oxide",
-  "_type": "propellant",
-  "type": "vegan"
-}, {
-  "code": "943a",
-  "name": "butane",
-  "_type": "propellant",
-  "type": "vegan"
-}, {
-  "code": "943b",
-  "name": "isobutane",
-  "_type": "propellant",
-  "type": "vegan"
-}, {
-  "code": "950",
-  "name": "Acesulfame potassium",
-  "_type": "artificial sweetener",
-  "type": "vegan"
-}, {
-  "code": "951",
-  "name": "aspartame",
-  "_type": "artificial sweetener",
-  "type": "vegan"
-}, {
-  "code": "952",
-  "name": "cyclamic acid, cyclamates",
-  "_type": "artificial sweetener",
-  "type": "vegan"
-}, {
-  "code": "953",
-  "name": "isomalt",
-  "_type": "humectant",
-  "type": "vegan"
-}, {
-  "code": "954",
-  "name": "saccharin",
-  "_type": "artificial sweetener",
-  "type": "vegan"
-}, {
-  "code": "957",
-  "name": "thaumatin",
-  "_type": "flavour enhancer, artificial sweetener",
-  "type": "vegan"
-}, {
-  "code": "959",
-  "name": "neohesperidin dihydrochalcone",
-  "_type": "artificial sweetener",
-  "type": "vegan"
-}, {
-  "code": "965",
-  "name": "maltitol",
-  "_type": "humectant, stabiliser",
-  "type": "vegan"
-}, {
-  "code": "966",
-  "name": "Lactitol",
-  "description": "",
-  "type": "meaby"
-}, {
-  "code": "967",
-  "name": "xylitol",
-  "_type": "humectant, stabiliser",
-  "type": "vegan"
-}, {
-  "code": "999",
-  "name": "quillaia extract",
-  "_type": "humectant",
-  "type": "vegan"
-}]
+[
+    {
+        "code": "E100",
+        "name": "Curcumina",
+        "type": "vegan"
+    },
+    {
+        "code": "E100ii",
+        "name": "Cúrcuma",
+        "type": "vegan"
+    },
+    {
+        "code": "E101",
+        "name": "Riboflavina (Lactoflavina) / Riboflavina",
+        "type": "maybe"
+    },
+    {
+        "code": "E101a",
+        "name": "Fosfato de Riboflavina / Riboflavina-5-fosfato / Riboflavina- 5'- fosfato",
+        "type": "maybe"
+    },
+    {
+        "code": "E102",
+        "name": "Tartrazina / Tartracina",
+        "type": "vegan"
+    },
+    {
+        "code": "E103",
+        "name": "Crisoína",
+        "type": "nodata"
+    },
+    {
+        "code": "E104",
+        "name": "Amarillo de Quinoleína / Amarillo",
+        "type": "vegan"
+    },
+    {
+        "code": "E105",
+        "name": "Amarillo Sólido",
+        "type": "nodata"
+    },
+    {
+        "code": "E106",
+        "name": "Fosfato de Lactoflavina / Riboflavina-5-fosfato sódico",
+        "type": "maybe"
+    },
+    {
+        "code": "E107",
+        "name": "Amarillo 2G",
+        "type": "vegan"
+    },
+    {
+        "code": "E110",
+        "name": "Amarillo Ocaso FCF / Amarillo",
+        "type": "vegan"
+    },
+    {
+        "code": "E111",
+        "name": "Naranja GGN",
+        "type": "nodata"
+    },
+    {
+        "code": "E120",
+        "name": "Ácido Carmínico / Cochinilla, / Carmín, Cochinilla",
+        "type": "animal"
+    },
+    {
+        "code": "E120i",
+        "name": "Rojo Carmín",
+        "type": "animal"
+    },
+    {
+        "code": "E120ii",
+        "name": "Extracto de Cochinilla",
+        "type": "animal"
+    },
+    {
+        "code": "E121",
+        "name": "Rojo Cítrico 2",
+        "type": "nodata"
+    },
+    {
+        "code": "E122",
+        "name": "Azorrubina (Carmoisina) / Azorrubina",
+        "type": "vegan"
+    },
+    {
+        "code": "E123",
+        "name": "Amaranto",
+        "type": "vegan"
+    },
+    {
+        "code": "E124",
+        "name": "Ponceau 4R / Rojo",
+        "type": "vegan"
+    },
+    {
+        "code": "E125",
+        "name": "Ponceau SX",
+        "type": "nodata"
+    },
+    {
+        "code": "E126",
+        "name": "Ponceau 6R",
+        "type": "nodata"
+    },
+    {
+        "code": "E127",
+        "name": "Eritrosina",
+        "type": "vegan"
+    },
+    {
+        "code": "E128",
+        "name": "Rojo 2G / Rojo",
+        "type": "vegan"
+    },
+    {
+        "code": "E129",
+        "name": "Rojo Allura AC / Rojo",
+        "type": "vegan"
+    },
+    {
+        "code": "E130",
+        "name": "Azul de Antraquinona",
+        "type": "nodata"
+    },
+    {
+        "code": "E131",
+        "name": "Azul Patente V / Azul / Azul Patentado V",
+        "type": "vegan"
+    },
+    {
+        "code": "E132",
+        "name": "Indigotina (Carmín Índigo) / Indigotina, / Indigotina",
+        "type": "vegan"
+    },
+    {
+        "code": "E133",
+        "name": "Azul Brillante FCF / Azul",
+        "type": "vegan"
+    },
+    {
+        "code": "E140",
+        "name": "Clorofilas",
+        "type": "vegan"
+    },
+    {
+        "code": "E140i",
+        "name": "Clorofila",
+        "type": "nodata"
+    },
+    {
+        "code": "E140ii",
+        "name": "Clorofilina",
+        "type": "nodata"
+    },
+    {
+        "code": "E141",
+        "name": "Complejos Cúpricos de Clorofila / Complejos",
+        "type": "vegan"
+    },
+    {
+        "code": "E141i",
+        "name": "Complejos Cúpricos de Clorofilas",
+        "type": "nodata"
+    },
+    {
+        "code": "E141ii",
+        "name": "Complejos Cúpricos de Clorofilinas",
+        "type": "nodata"
+    },
+    {
+        "code": "E142",
+        "name": "Verde Ácido Brillante / Verde / Verde S",
+        "type": "vegan"
+    },
+    {
+        "code": "E150",
+        "name": "Caramelo",
+        "type": "nodata"
+    },
+    {
+        "code": "E150a",
+        "name": "Caramelo Cáustico / Caramelo",
+        "type": "vegan"
+    },
+    {
+        "code": "E150a-d",
+        "name": "Caramelo",
+        "type": "vegan"
+    },
+    {
+        "code": "E150b",
+        "name": "Caramelo Cáustico de Sulfito / Caramelo",
+        "type": "vegan"
+    },
+    {
+        "code": "E150c",
+        "name": "Caramelo Amónico / Caramelo",
+        "type": "vegan"
+    },
+    {
+        "code": "E150d",
+        "name": "Caramelo Sulfito de Amoníaco / Caramelo",
+        "type": "vegan"
+    },
+    {
+        "code": "E151",
+        "name": "Negro Brillante BN / Negro",
+        "type": "vegan"
+    },
+    {
+        "code": "E152",
+        "name": "Negro 7984",
+        "type": "nodata"
+    },
+    {
+        "code": "E153",
+        "name": "Carbón Vegetal Medicinal / Carbón",
+        "type": "maybe"
+    },
+    {
+        "code": "E154",
+        "name": "Marrón FK / Marrón",
+        "type": "vegan"
+    },
+    {
+        "code": "E155",
+        "name": "Marrón Chocolate HT / Marrón / Marrón HT",
+        "type": "vegan"
+    },
+    {
+        "code": "E160",
+        "name": "Beta Caroteno",
+        "type": "nodata"
+    },
+    {
+        "code": "E160a",
+        "name": "Carotenoides / Alfa, / Alfa-, Beta- y Gamma- caroteno",
+        "type": "vegan"
+    },
+    {
+        "code": "E160b",
+        "name": "Annatto, Bixina, Norbixina / Bixina,",
+        "type": "vegan"
+    },
+    {
+        "code": "E160c",
+        "name": "Extracto de Pimiento (Paprika) / Capsantina,",
+        "type": "vegan"
+    },
+    {
+        "code": "E160d",
+        "name": "Licopeno",
+        "type": "vegan"
+    },
+    {
+        "code": "E160e",
+        "name": "Beta Apocarotenal / Beta-apo-8'-carotenal",
+        "type": "vegan"
+    },
+    {
+        "code": "E160f",
+        "name": "Ester Etílico Ácido Beta Apocarotenoico / Ester / Ester etílico del ácido beta-apo-8'-carotenoico",
+        "type": "vegan"
+    },
+    {
+        "code": "E161",
+        "name": "Xantófilas / Xantofilas",
+        "type": "nodata"
+    },
+    {
+        "code": "E161a",
+        "name": "Flavoxantina",
+        "type": "vegan"
+    },
+    {
+        "code": "E161b",
+        "name": "Luteína",
+        "type": "maybe"
+    },
+    {
+        "code": "E161c",
+        "name": "Criptoxantina",
+        "type": "maybe"
+    },
+    {
+        "code": "E161d",
+        "name": "Rubixantina",
+        "type": "vegan"
+    },
+    {
+        "code": "E161e",
+        "name": "Violaxantina / Violoxantina",
+        "type": "vegan"
+    },
+    {
+        "code": "E161f",
+        "name": "Rodoxantina",
+        "type": "maybe"
+    },
+    {
+        "code": "E161g",
+        "name": "Cantaxantina",
+        "type": "maybe"
+    },
+    {
+        "code": "E161h",
+        "name": "Zeaxantina / Citranaxantina",
+        "type": "vegan"
+    },
+    {
+        "code": "E161j",
+        "name": "Astaxantina",
+        "type": "nodata"
+    },
+    {
+        "code": "E162",
+        "name": "Rojo Remolacha (Betanina) / Rojo / Extracto de remolacha",
+        "type": "vegan"
+    },
+    {
+        "code": "E163",
+        "name": "Antocianinas",
+        "type": "vegan"
+    },
+    {
+        "code": "E163a",
+        "name": "Cianidina",
+        "type": "nodata"
+    },
+    {
+        "code": "E163b",
+        "name": "Delfinidina",
+        "type": "nodata"
+    },
+    {
+        "code": "E163c",
+        "name": "Malvidina",
+        "type": "nodata"
+    },
+    {
+        "code": "E164d",
+        "name": "Pelargonidina",
+        "type": "nodata"
+    },
+    {
+        "code": "E164e",
+        "name": "Peonidina",
+        "type": "nodata"
+    },
+    {
+        "code": "E165f",
+        "name": "Petunidina",
+        "type": "nodata"
+    },
+    {
+        "code": "E170",
+        "name": "Carbonatos Cálcicos / Carbonato / Carbonato cálcico",
+        "type": "vegan"
+    },
+    {
+        "code": "E170i",
+        "name": "Carbonato de Calcio",
+        "type": "nodata"
+    },
+    {
+        "code": "E170ii",
+        "name": "Bicarbonato de Calcio",
+        "type": "nodata"
+    },
+    {
+        "code": "E171",
+        "name": "Óxido de Titanio / Bióxido / Bióxido de titanio",
+        "type": "vegan"
+    },
+    {
+        "code": "E172",
+        "name": "Óxido de Hierro / Óxidose / Oxidos de hierro",
+        "type": "vegan"
+    },
+    {
+        "code": "E173",
+        "name": "Aluminio",
+        "type": "vegan"
+    },
+    {
+        "code": "E174",
+        "name": "Plata",
+        "type": "vegan"
+    },
+    {
+        "code": "E175",
+        "name": "Oro",
+        "type": "vegan"
+    },
+    {
+        "code": "E180",
+        "name": "Pigmento Rubí (Litolrubina BK) / Litol-rubina / Litol -rubina BK",
+        "type": "vegan"
+    },
+    {
+        "code": "E181",
+        "name": "Tierra Sombra Quemada / Taninos",
+        "type": "vegan"
+    },
+    {
+        "code": "E182",
+        "name": "Orceína (Orcina, Orcilla)",
+        "type": "nodata"
+    },
+    {
+        "code": "E200",
+        "name": "Ácido Sórbico / Ácido / Acido sórbico",
+        "type": "vegan"
+    },
+    {
+        "code": "E201",
+        "name": "Sorbato de Sodio / Sorbato / Sorbato de sodio / Sal sódica del ácido sórbico",
+        "type": "vegan"
+    },
+    {
+        "code": "E202",
+        "name": "Sorbato de Potasio / Sorbato",
+        "type": "vegan"
+    },
+    {
+        "code": "E203",
+        "name": "Sorbato de Calcio / Sorbato",
+        "type": "vegan"
+    },
+    {
+        "code": "E210",
+        "name": "Ácido Benzoico / Ácido / Acido benzoico",
+        "type": "vegan"
+    },
+    {
+        "code": "E211",
+        "name": "Benzoato de Sodio / Benzoato / Benzoato de sodio / Sal sódica del ácido benzoico",
+        "type": "vegan"
+    },
+    {
+        "code": "E212",
+        "name": "Benzoato de Potasio / Benzoato / Benzoato de potasio / Sal potásica del ácido benzoico",
+        "type": "vegan"
+    },
+    {
+        "code": "E213",
+        "name": "Benzoato de Calcio / Benzoato / Benzoato de calcio / Sal cálcica del ácido benzoico",
+        "type": "vegan"
+    },
+    {
+        "code": "E214",
+        "name": "Etil Hidroxibenzoato / Etil / Etil 4-hidroxibenzoato",
+        "type": "vegan"
+    },
+    {
+        "code": "E215",
+        "name": "Etil Hidroxibenzoato de Sodio / Etil / Sal sódica del etil 4-hidroxibenzoato",
+        "type": "vegan"
+    },
+    {
+        "code": "E216",
+        "name": "Propil Hidroxibenzoato / Propil / Propil 4-hidrobenzoato",
+        "type": "vegan"
+    },
+    {
+        "code": "E217",
+        "name": "Propil Hidroxibenzoato de Sodio / Propil / Sal sódica del E216",
+        "type": "vegan"
+    },
+    {
+        "code": "E218",
+        "name": "Metil Hidroxibenzoato / Metil / Metil 4-hidroxibenzoato",
+        "type": "vegan"
+    },
+    {
+        "code": "E219",
+        "name": "Metil Hidroxibenzoato de Sodio / Metil / Sal sódica del E218",
+        "type": "vegan"
+    },
+    {
+        "code": "E220",
+        "name": "Dióxido de Azufre (Sulfitos) / Anhidrido / Dióxido de azufre",
+        "type": "vegan"
+    },
+    {
+        "code": "E221",
+        "name": "Sulfito de Sodio / Sulfito / Sulfito sódico",
+        "type": "vegan"
+    },
+    {
+        "code": "E222",
+        "name": "Sulfito Ácido de Sodio / Sulfito / Sulfito ácido de sodio",
+        "type": "vegan"
+    },
+    {
+        "code": "E223",
+        "name": "Metabisulfito de Sodio / Metabisulfito / Metabisulfito sódico",
+        "type": "vegan"
+    },
+    {
+        "code": "E224",
+        "name": "Metabisulfito de Potasio / Metabisulfito / Metabisulfito potásico",
+        "type": "vegan"
+    },
+    {
+        "code": "E225",
+        "name": "Sulfito de Potasio / Sulfito potásico",
+        "type": "vegan"
+    },
+    {
+        "code": "E226",
+        "name": "Sulfito de Calcio / Sulfito / Sulfito cálcico",
+        "type": "vegan"
+    },
+    {
+        "code": "E227",
+        "name": "Sulfito Ácido de Calcio / Sulfito / Sulfito ácido de calcio",
+        "type": "vegan"
+    },
+    {
+        "code": "E228",
+        "name": "Sulfito Ácido de Potasio / Sulfito / Sulfito ácido de potasio",
+        "type": "vegan"
+    },
+    {
+        "code": "E230",
+        "name": "Bifenilo (Difenilo) / Bifenilo / Difenilo",
+        "type": "vegan"
+    },
+    {
+        "code": "E231",
+        "name": "Ortofenil Fenol / Ortofenilfenol / 2-hidroxidifenilo",
+        "type": "vegan"
+    },
+    {
+        "code": "E232",
+        "name": "Ortofenil Fenolato Sódico / Ortofenilfenato / Oxido de sodio del 2-il difenilo",
+        "type": "vegan"
+    },
+    {
+        "code": "E233",
+        "name": "Tiabendazol / Tiabenzol / 2-(Tiazol-4-il)benzimidazol",
+        "type": "vegan"
+    },
+    {
+        "code": "E234",
+        "name": "Nisina",
+        "type": "vegan"
+    },
+    {
+        "code": "E235",
+        "name": "Natamicina (Pimaricina) / Natamicina / Pimaracina",
+        "type": "vegan"
+    },
+    {
+        "code": "E236",
+        "name": "Ácido Fórmico (Metanoico) / Ácido / Acido fórmico",
+        "type": "vegan"
+    },
+    {
+        "code": "E237",
+        "name": "Formiato de Sodio / Formiato / Formato sódico",
+        "type": "vegan"
+    },
+    {
+        "code": "E238",
+        "name": "Formiato de Calcio / Formiato / Formato cálcico",
+        "type": "vegan"
+    },
+    {
+        "code": "E239",
+        "name": "Hexametil Entetramina (Hexamina) / Hexametilen / Hexamina",
+        "type": "vegan"
+    },
+    {
+        "code": "E240",
+        "name": "Formaldehído (Formol, Formalina) / Formaldehído",
+        "type": "vegan"
+    },
+    {
+        "code": "E242",
+        "name": "Dimetil Dicarbonato / Dimetil / Dimetilcarbonato",
+        "type": "vegan"
+    },
+    {
+        "code": "E243",
+        "name": "Etil Lauroil Arginato / Etil",
+        "type": "nodata"
+    },
+    {
+        "code": "E249",
+        "name": "Nitrito de Potasio / Nitrito / Nitrito potásico",
+        "type": "vegan"
+    },
+    {
+        "code": "E250",
+        "name": "Nitrito de Sodio / Nitrito / Nitrito sódico",
+        "type": "vegan"
+    },
+    {
+        "code": "E251",
+        "name": "Nitrato de Sodio / Nitrato / Nitrato sódico",
+        "type": "vegan"
+    },
+    {
+        "code": "E252",
+        "name": "Nitrato de Potasio / Nitrato / Nitrato potásico",
+        "type": "vegan"
+    },
+    {
+        "code": "E260",
+        "name": "Ácido Acético / Ácido / Acido acético",
+        "type": "vegan"
+    },
+    {
+        "code": "E261",
+        "name": "Acetato de Potasio / Acetato",
+        "type": "vegan"
+    },
+    {
+        "code": "E262",
+        "name": "Acetato de Sodio",
+        "type": "vegan"
+    },
+    {
+        "code": "E262i",
+        "name": "Diacetato / Acetato",
+        "type": "nodata"
+    },
+    {
+        "code": "E263",
+        "name": "Acetato de Calcio / Acetato",
+        "type": "vegan"
+    },
+    {
+        "code": "E264",
+        "name": "Acetato de Amonio",
+        "type": "nodata"
+    },
+    {
+        "code": "E270",
+        "name": "Ácido Láctico / Ácido / Acido láctico",
+        "type": "vegan"
+    },
+    {
+        "code": "E280",
+        "name": "Ácido Propiónico / Ácido / Acido propiónico",
+        "type": "vegan"
+    },
+    {
+        "code": "E281",
+        "name": "Propionato de Sodio / Propionato / Propionato sódico",
+        "type": "vegan"
+    },
+    {
+        "code": "E282",
+        "name": "Propionato de Calcio / Propionato / Propionato cálcico",
+        "type": "vegan"
+    },
+    {
+        "code": "E283",
+        "name": "Propionato de Potasio / Propionato / Propionato potásico",
+        "type": "vegan"
+    },
+    {
+        "code": "E284",
+        "name": "Ácido Bórico / Ácido / Acido bórico",
+        "type": "vegan"
+    },
+    {
+        "code": "E285",
+        "name": "Tetraborato de Sodio (Bórax) / Tetraborato / Tetraborato sódico",
+        "type": "vegan"
+    },
+    {
+        "code": "E290",
+        "name": "Dióxido de Carbono / Anhídrido",
+        "type": "vegan"
+    },
+    {
+        "code": "E296",
+        "name": "Ácido Málico / Ácido / Acido málico",
+        "type": "vegan"
+    },
+    {
+        "code": "E297",
+        "name": "Ácido Fumárico / Ácido / Acido fumárico",
+        "type": "vegan"
+    },
+    {
+        "code": "E300",
+        "name": "Ácido Ascórbico / Ácido / L- ácido ascórbico",
+        "type": "vegan"
+    },
+    {
+        "code": "E301",
+        "name": "Ascorbato de Sodio / Ascorbato / L- ascorbato sódico",
+        "type": "vegan"
+    },
+    {
+        "code": "E302",
+        "name": "Ascorbato de Calcio / Ascorbato / L - ascorbato cálcico",
+        "type": "vegan"
+    },
+    {
+        "code": "E303",
+        "name": "Ascorbato de Potasio",
+        "type": "nodata"
+    },
+    {
+        "code": "E304",
+        "name": "Palmitato Ascorbilo / L - palmitato de ascorbilo",
+        "type": "maybe"
+    },
+    {
+        "code": "E304i",
+        "name": "/ Estearato",
+        "type": "nodata"
+    },
+    {
+        "code": "E305",
+        "name": "Estearato Ascorbilo",
+        "type": "nodata"
+    },
+    {
+        "code": "E306",
+        "name": "Extractos Naturales Ricos en Tocoferol / Extractos / Extractos de tocoferoles",
+        "type": "vegan"
+    },
+    {
+        "code": "E307",
+        "name": "Alfa Tocoferol / Alfa / alfa- Tocoferol",
+        "type": "vegan"
+    },
+    {
+        "code": "E308",
+        "name": "Gama Tocoferol / Gamma / gamma-Tocoferol",
+        "type": "vegan"
+    },
+    {
+        "code": "E309",
+        "name": "Delta Tocoferol / Delta / delta- Tocoferol",
+        "type": "vegan"
+    },
+    {
+        "code": "E310",
+        "name": "Galato de Propilo / Galato",
+        "type": "vegan"
+    },
+    {
+        "code": "E311",
+        "name": "Galato de Octilo / Galato",
+        "type": "vegan"
+    },
+    {
+        "code": "E312",
+        "name": "Galato de Dodecilo / Galato",
+        "type": "maybe"
+    },
+    {
+        "code": "E313",
+        "name": "Ácido tiodipropionico",
+        "type": "vegan"
+    },
+    {
+        "code": "E314",
+        "name": "Goma guayaco",
+        "type": "vegan"
+    },
+    {
+        "code": "E315",
+        "name": "Ácido Eritórbico / Ácido / Ácido eritorbico",
+        "type": "vegan"
+    },
+    {
+        "code": "E316",
+        "name": "Eritorbato Sódico / Eritorbato",
+        "type": "vegan"
+    },
+    {
+        "code": "E319",
+        "name": "Butil Hidroquinona (BHQ) / Butilhidroquinona",
+        "type": "vegan"
+    },
+    {
+        "code": "E320",
+        "name": "Butil Hidroxianisol (BHA) / Butilhidroxianisol, / Butilhidroxianisol",
+        "type": "vegan"
+    },
+    {
+        "code": "E321",
+        "name": "Butil Hidroxitolueno (BHT) / Butilhidroxitolueno, / Butilhidroxitolueno",
+        "type": "vegan"
+    },
+    {
+        "code": "E322",
+        "name": "Lecitina / Lecitinas",
+        "type": "maybe"
+    },
+    {
+        "code": "E325",
+        "name": "Lactato de Sodio / Lactato / Lactato sódico",
+        "type": "vegan"
+    },
+    {
+        "code": "E326",
+        "name": "Lactato de Potasio / Lactato / Lactato potásico",
+        "type": "vegan"
+    },
+    {
+        "code": "E327",
+        "name": "Lactato de Calcio / Lactato / Lactato cálcico",
+        "type": "vegan"
+    },
+    {
+        "code": "E328",
+        "name": "Lactato de Amonio",
+        "type": "nodata"
+    },
+    {
+        "code": "E329",
+        "name": "Lactato de Magnesio",
+        "type": "nodata"
+    },
+    {
+        "code": "E330",
+        "name": "Ácido Cítrico / Ácido",
+        "type": "vegan"
+    },
+    {
+        "code": "E331",
+        "name": "Citratos de Sodio / Citratos",
+        "type": "vegan"
+    },
+    {
+        "code": "E332",
+        "name": "Citratos de Potasio / Citratos",
+        "type": "vegan"
+    },
+    {
+        "code": "E333",
+        "name": "Citratos de Calcio / Citratos / Citratos de Mono, di, y Tri-cálcico",
+        "type": "vegan"
+    },
+    {
+        "code": "E334",
+        "name": "Ácido Tartárico / Ácido / Ácido L-(+)- tartárico",
+        "type": "vegan"
+    },
+    {
+        "code": "E335",
+        "name": "Tartrato de Sodio / Tartratos / Tartratos L-(+) mono/di sódico",
+        "type": "vegan"
+    },
+    {
+        "code": "E336",
+        "name": "Tartrato de Potasio / Tartratos / Tartratos L-(+) mono potásico",
+        "type": "vegan"
+    },
+    {
+        "code": "E337",
+        "name": "Tartrato Doble de Sodio y Potasio / Tartrato / Tartrato L-(+) doble de sodio y potasio",
+        "type": "vegan"
+    },
+    {
+        "code": "E338",
+        "name": "Ácido Ortofosfórico / Ácido / Ácido fosfórico",
+        "type": "vegan"
+    },
+    {
+        "code": "E339",
+        "name": "Ortofosfatos de Sodio / Ortofosfatos",
+        "type": "vegan"
+    },
+    {
+        "code": "E339i",
+        "name": "Ortofosfato Monosódico",
+        "type": "nodata"
+    },
+    {
+        "code": "E339ii",
+        "name": "Ortofosfato Disódico",
+        "type": "nodata"
+    },
+    {
+        "code": "E339iii",
+        "name": "Ortofosfato Trisódico",
+        "type": "nodata"
+    },
+    {
+        "code": "E340",
+        "name": "Ortofosfatos de Potasio / Ortofosfatos",
+        "type": "vegan"
+    },
+    {
+        "code": "E340i",
+        "name": "Ortofosfato Monopotásico",
+        "type": "nodata"
+    },
+    {
+        "code": "E340ii",
+        "name": "Ortofosfato Dipotásico",
+        "type": "nodata"
+    },
+    {
+        "code": "E340iii",
+        "name": "Ortofosfato Tripotásico",
+        "type": "nodata"
+    },
+    {
+        "code": "E341",
+        "name": "Ortofosfatos de Calcio / Ortofosfatos",
+        "type": "vegan"
+    },
+    {
+        "code": "E341i",
+        "name": "Ortofosfato Monocálcico",
+        "type": "nodata"
+    },
+    {
+        "code": "E341ii",
+        "name": "Ortofosfato Dicálcico",
+        "type": "nodata"
+    },
+    {
+        "code": "E341iii",
+        "name": "Ortofosfato Tricálcico",
+        "type": "nodata"
+    },
+    {
+        "code": "E342",
+        "name": "Ortofosfatos de Amonio",
+        "type": "nodata"
+    },
+    {
+        "code": "E342i",
+        "name": "Ortofosfato Monoamónico",
+        "type": "nodata"
+    },
+    {
+        "code": "E342ii",
+        "name": "Ortofosfato Diamónico",
+        "type": "nodata"
+    },
+    {
+        "code": "E342iii",
+        "name": "Ortofosfato Triamónico",
+        "type": "nodata"
+    },
+    {
+        "code": "E343",
+        "name": "Ortofosfatos de Magnesio / Ortofosfatos",
+        "type": "vegan"
+    },
+    {
+        "code": "E343i",
+        "name": "Ortofosfato Monomagnésico",
+        "type": "nodata"
+    },
+    {
+        "code": "E343ii",
+        "name": "Ortofosfato Dimagnésico",
+        "type": "nodata"
+    },
+    {
+        "code": "E343iii",
+        "name": "Ortofosfato Trimagnésico",
+        "type": "nodata"
+    },
+    {
+        "code": "E349",
+        "name": "Malatos de Amonio",
+        "type": "nodata"
+    },
+    {
+        "code": "E349i",
+        "name": "Malato de Amonio",
+        "type": "nodata"
+    },
+    {
+        "code": "E349ii",
+        "name": "Malato Ácido de Amonio",
+        "type": "nodata"
+    },
+    {
+        "code": "E350",
+        "name": "Malatos de Sodio / Malato sódico",
+        "type": "vegan"
+    },
+    {
+        "code": "E350i",
+        "name": "Malato de Sodio / Malato",
+        "type": "nodata"
+    },
+    {
+        "code": "E350ii",
+        "name": "Malato Ácido de Sodio / Malato",
+        "type": "nodata"
+    },
+    {
+        "code": "E351",
+        "name": "Malatos de Potasio / Malatos / Malato de potasio",
+        "type": "vegan"
+    },
+    {
+        "code": "E351i",
+        "name": "Malato de Potasio",
+        "type": "nodata"
+    },
+    {
+        "code": "E351ii",
+        "name": "Malato Ácido de Potasio",
+        "type": "nodata"
+    },
+    {
+        "code": "E352",
+        "name": "Malatos de Calcio / Malatos / Malato de calcio",
+        "type": "vegan"
+    },
+    {
+        "code": "E352i",
+        "name": "Malato de Calcio / Malato",
+        "type": "nodata"
+    },
+    {
+        "code": "E352ii",
+        "name": "Malato Ácido de Calcio / Malato",
+        "type": "nodata"
+    },
+    {
+        "code": "E353",
+        "name": "Ácido Metatartárico / Ácido",
+        "type": "vegan"
+    },
+    {
+        "code": "E354",
+        "name": "Tartrato de Calcio / Tartrato / Tartrato cálcico",
+        "type": "vegan"
+    },
+    {
+        "code": "E355",
+        "name": "Ácido Adípico / Ácido / Acido ad ípico",
+        "type": "vegan"
+    },
+    {
+        "code": "E356",
+        "name": "Adipato de Sodio",
+        "type": "vegan"
+    },
+    {
+        "code": "E357",
+        "name": "Adipato de Potasio / Adipato / Adipato potásico",
+        "type": "vegan"
+    },
+    {
+        "code": "E363",
+        "name": "Ácido Succínico / Ácido",
+        "type": "vegan"
+    },
+    {
+        "code": "E364",
+        "name": "Fumarato de Magnesio",
+        "type": "nodata"
+    },
+    {
+        "code": "E365",
+        "name": "Fumarato de Sodio",
+        "type": "vegan"
+    },
+    {
+        "code": "E366",
+        "name": "Fumarato de Potasio",
+        "type": "nodata"
+    },
+    {
+        "code": "E367",
+        "name": "Fumarato de Calcio",
+        "type": "nodata"
+    },
+    {
+        "code": "E368",
+        "name": "Fumarato de Amonio",
+        "type": "nodata"
+    },
+    {
+        "code": "E370",
+        "name": "Heptonolactona / 1,4-Heptonolactona",
+        "type": "vegan"
+    },
+    {
+        "code": "E372c",
+        "name": "Ester",
+        "type": "nodata"
+    },
+    {
+        "code": "E375",
+        "name": "Ácido Nicotínico (Niacina) / Ácido / Ácido nicotínico",
+        "type": "vegan"
+    },
+    {
+        "code": "E380",
+        "name": "Citrato Triamónico / Citrato",
+        "type": "vegan"
+    },
+    {
+        "code": "E381",
+        "name": "Citrato Férrico de Amonio",
+        "type": "vegan"
+    },
+    {
+        "code": "E385",
+        "name": "Etileno Diamina Tetra Acetato (EDTA) / Etilenodiamino / Etilen diamino de calcio y sodio",
+        "type": "vegan"
+    },
+    {
+        "code": "E386",
+        "name": "Ácido Etileno Diamino Tetraacético (AEDT) / EDTA: Etilen diamino tetracetato disódico",
+        "type": "vegan"
+    },
+    {
+        "code": "E387",
+        "name": "Oxiestearina",
+        "type": "maybe"
+    },
+    {
+        "code": "E388",
+        "name": "Ácido tiodipropionico",
+        "type": "vegan"
+    },
+    {
+        "code": "E392",
+        "name": "Extracto de Romero",
+        "type": "nodata"
+    },
+    {
+        "code": "E400",
+        "name": "Ácido Algínico / Ácido",
+        "type": "vegan"
+    },
+    {
+        "code": "E401",
+        "name": "Alginato de Sodio / Alginato / Alginato sódico",
+        "type": "vegan"
+    },
+    {
+        "code": "E402",
+        "name": "Alginato de Potasio / Alginato / Alginato potásico",
+        "type": "vegan"
+    },
+    {
+        "code": "E403",
+        "name": "Alginato de Amonio / Alginato / Alginato amónico",
+        "type": "vegan"
+    },
+    {
+        "code": "E404",
+        "name": "Alginato de Calcio / Alginato / Alginato cálcico (algin)",
+        "type": "vegan"
+    },
+    {
+        "code": "E405",
+        "name": "Alginato de Propilenglicol / Alginato / Alginato de propano-1,2-diol",
+        "type": "vegan"
+    },
+    {
+        "code": "E406",
+        "name": "Agar-Agar",
+        "type": "vegan"
+    },
+    {
+        "code": "E407",
+        "name": "Carragenanos",
+        "type": "vegan"
+    },
+    {
+        "code": "E407a",
+        "name": "Algas Eucheuma",
+        "type": "nodata"
+    },
+    {
+        "code": "E408",
+        "name": "Furcelleran",
+        "type": "vegan"
+    },
+    {
+        "code": "E410",
+        "name": "Goma Garrofín (Algarrobo) / Goma / Goma de algarrobo",
+        "type": "vegan"
+    },
+    {
+        "code": "E411",
+        "name": "Goma de avena",
+        "type": "vegan"
+    },
+    {
+        "code": "E412",
+        "name": "Goma Guar / Goma",
+        "type": "vegan"
+    },
+    {
+        "code": "E413",
+        "name": "Goma Tragacanto (Aldragante) / Goma / Tragacanto",
+        "type": "vegan"
+    },
+    {
+        "code": "E414",
+        "name": "Goma Arábiga / Goma / Goma arábica",
+        "type": "vegan"
+    },
+    {
+        "code": "E415",
+        "name": "Goma Xantana / Goma",
+        "type": "vegan"
+    },
+    {
+        "code": "E416",
+        "name": "Goma Karaya / Goma",
+        "type": "vegan"
+    },
+    {
+        "code": "E417",
+        "name": "Goma Tara / Goma",
+        "type": "nodata"
+    },
+    {
+        "code": "E418",
+        "name": "Goma Gellan / Goma",
+        "type": "vegan"
+    },
+    {
+        "code": "E420",
+        "name": "Sorbitol",
+        "type": "vegan"
+    },
+    {
+        "code": "E420i",
+        "name": "Jarabe",
+        "type": "nodata"
+    },
+    {
+        "code": "E420ii",
+        "name": "Sorbitol",
+        "type": "nodata"
+    },
+    {
+        "code": "E421",
+        "name": "Manitol",
+        "type": "vegan"
+    },
+    {
+        "code": "E422",
+        "name": "Glicerol",
+        "type": "vegan"
+    },
+    {
+        "code": "E425",
+        "name": "Goma Konjac (Glucomanano)",
+        "type": "nodata"
+    },
+    {
+        "code": "E426",
+        "name": "Hemicelulosa de Soja",
+        "type": "nodata"
+    },
+    {
+        "code": "E427",
+        "name": "Goma Cassia",
+        "type": "nodata"
+    },
+    {
+        "code": "E430",
+        "name": "Estearato Polioxietileno 8 / Estearato / Estearato de (8) polioxietileno",
+        "type": "maybe"
+    },
+    {
+        "code": "E431",
+        "name": "Estearato Polioxietileno 40 / Estearato / Estearato de polioxietileno",
+        "type": "maybe"
+    },
+    {
+        "code": "E432",
+        "name": "Monolaurato Polioxietilenado (Polisorbato 20) / Monolaurato / Sorbinato de (20) polioxietileno, Polisorbato 20",
+        "type": "maybe"
+    },
+    {
+        "code": "E433",
+        "name": "Monooleato Polioxietilenado (Polisorbato 80) / Monooleato / Polisorbato 80",
+        "type": "maybe"
+    },
+    {
+        "code": "E434",
+        "name": "Monopalmitato Polioxietilenado (Polisorbato 40) / Monopalmitato / Polisorbato 40",
+        "type": "maybe"
+    },
+    {
+        "code": "E435",
+        "name": "Monoestearato Polioxietilenado (Polisorbato 60) / Monoestearato / Polisorbato 60",
+        "type": "maybe"
+    },
+    {
+        "code": "E436",
+        "name": "Triestearato Polioxietilenado (Polisorbato 65) / Triestearato / Polisorbato 65",
+        "type": "maybe"
+    },
+    {
+        "code": "E440",
+        "name": "Pectina",
+        "type": "vegan"
+    },
+    {
+        "code": "E440a",
+        "name": "Pectinas",
+        "type": "nodata"
+    },
+    {
+        "code": "E440b",
+        "name": "Pectinas Amidadas",
+        "type": "nodata"
+    },
+    {
+        "code": "E440i",
+        "name": "Pectina",
+        "type": "nodata"
+    },
+    {
+        "code": "E440ii",
+        "name": "Pectina",
+        "type": "nodata"
+    },
+    {
+        "code": "E441",
+        "name": "Gelatina (VER VÍDEO) / Gelatina",
+        "type": "animal"
+    },
+    {
+        "code": "E442",
+        "name": "Fosfátidos de Amonio / Fosfatidos",
+        "type": "maybe"
+    },
+    {
+        "code": "E444",
+        "name": "Acetato Isobutirato de Sacarosa / Acetatoisobutirato",
+        "type": "nodata"
+    },
+    {
+        "code": "E445",
+        "name": "Ésteres Glicéridos Colofonia de Madera / Esteres",
+        "type": "nodata"
+    },
+    {
+        "code": "E445i",
+        "name": "Abietato de Glicerilo",
+        "type": "nodata"
+    },
+    {
+        "code": "E445ii",
+        "name": "Goma Éster",
+        "type": "nodata"
+    },
+    {
+        "code": "E450",
+        "name": "Difosfatos / Di- y trifosfatos",
+        "type": "vegan"
+    },
+    {
+        "code": "E450i",
+        "name": "Difosfato Disódico / Difosfato",
+        "type": "nodata"
+    },
+    {
+        "code": "E450ii",
+        "name": "Difosfato Trisódico / Difosfato",
+        "type": "nodata"
+    },
+    {
+        "code": "E450iii",
+        "name": "Difosfato Tetrasódico / Difosfato",
+        "type": "nodata"
+    },
+    {
+        "code": "E450iv",
+        "name": "Difosfato Dipotásico / Difosfato",
+        "type": "nodata"
+    },
+    {
+        "code": "E450ix",
+        "name": "Difosfato Magnésico de Dihidrógeno",
+        "type": "nodata"
+    },
+    {
+        "code": "E450v",
+        "name": "Difosfato Tetrapotásico / Difosfato",
+        "type": "nodata"
+    },
+    {
+        "code": "E450vi",
+        "name": "Difosfato Dicálcico / Difosfato",
+        "type": "nodata"
+    },
+    {
+        "code": "E450vii",
+        "name": "Difosfato Ácido de Calcio / Difosfato",
+        "type": "nodata"
+    },
+    {
+        "code": "E451",
+        "name": "Trifosfatos / Trifosfato Pentapotásico",
+        "type": "vegan"
+    },
+    {
+        "code": "E451i",
+        "name": "Trifosfato Pentasódico / Trifosfato",
+        "type": "nodata"
+    },
+    {
+        "code": "E451ii",
+        "name": "Trifosfato",
+        "type": "nodata"
+    },
+    {
+        "code": "E452",
+        "name": "Polifosfatos",
+        "type": "vegan"
+    },
+    {
+        "code": "E452i",
+        "name": "Polifosfato de Sodio",
+        "type": "nodata"
+    },
+    {
+        "code": "E452ii",
+        "name": "Polifosfato de Potasio",
+        "type": "nodata"
+    },
+    {
+        "code": "E452iii",
+        "name": "Polifosfato de Sodio y Calcio / Polifosfato",
+        "type": "nodata"
+    },
+    {
+        "code": "E452iv",
+        "name": "Polifosfato de Calcio / Polifosfato",
+        "type": "nodata"
+    },
+    {
+        "code": "E452v",
+        "name": "Polifosfato de Amonio / Polifosfato",
+        "type": "nodata"
+    },
+    {
+        "code": "E452vi",
+        "name": "Polifosfato",
+        "type": "nodata"
+    },
+    {
+        "code": "E459",
+        "name": "Beta Ciclodextrina",
+        "type": "nodata"
+    },
+    {
+        "code": "E460",
+        "name": "Celulosa Microcristalina / Celulosa",
+        "type": "vegan"
+    },
+    {
+        "code": "E460i",
+        "name": "Celulosa",
+        "type": "nodata"
+    },
+    {
+        "code": "E460ii",
+        "name": "Celulosa",
+        "type": "nodata"
+    },
+    {
+        "code": "E461",
+        "name": "Metilcelulosa",
+        "type": "vegan"
+    },
+    {
+        "code": "E462",
+        "name": "Etilcelulosa",
+        "type": "vegan"
+    },
+    {
+        "code": "E463",
+        "name": "Hidroxipropil Celulosa / Hidroxipropilcelulosa",
+        "type": "vegan"
+    },
+    {
+        "code": "E464",
+        "name": "Hidroxipropil Metilcelulosa / Hidroxipropilmetilcelulosa",
+        "type": "vegan"
+    },
+    {
+        "code": "E465",
+        "name": "Etilmetil Celulosa / Metilcelulosa / Etilmetilcelulosa",
+        "type": "vegan"
+    },
+    {
+        "code": "E466",
+        "name": "Carboximetil Celulosa de sodio / Carboximetilcelulosa",
+        "type": "vegan"
+    },
+    {
+        "code": "E467",
+        "name": "Etilhidroxietil Celulosa",
+        "type": "nodata"
+    },
+    {
+        "code": "E468",
+        "name": "Carboximetil Celulosa de Sodio Reticulada",
+        "type": "nodata"
+    },
+    {
+        "code": "E469",
+        "name": "Carboximetil Celulosa de Sodio Hidrolizada",
+        "type": "nodata"
+    },
+    {
+        "code": "E470",
+        "name": "Sales de los Ácidos Grasos / Sales de ácidos grasos",
+        "type": "maybe"
+    },
+    {
+        "code": "E470a",
+        "name": "Sales de Sodio, Potasio y Calcio de los Ácidos Grasos / Sales",
+        "type": "nodata"
+    },
+    {
+        "code": "E470b",
+        "name": "Sales de Magnesio de los Ácidos Grasos / Sales",
+        "type": "nodata"
+    },
+    {
+        "code": "E471",
+        "name": "Mono y Diglicéridos de los Ácidos Grasos / Mono / Mono- y diglicéridos de ácidos grasos",
+        "type": "maybe"
+    },
+    {
+        "code": "E472",
+        "name": "Ésteres de los Mono y Diglicéridos de los Ácidos Grasos / Esteres de los mono y diglicéridos de ácidos grasos",
+        "type": "maybe"
+    },
+    {
+        "code": "E472a",
+        "name": "Ésteres Acéticos de los Mono y Diglicéridos de los Ácidos Grasos / Esteres",
+        "type": "nodata"
+    },
+    {
+        "code": "E472b",
+        "name": "Ésteres Lácticos de los Mono y Diglicéridos de los Ácidos Grasos / Esteres",
+        "type": "nodata"
+    },
+    {
+        "code": "E472c",
+        "name": "Ésteres Cítricos de los Mono y Diglicéridos de los Ácidos Grasos / Esteres",
+        "type": "nodata"
+    },
+    {
+        "code": "E472d",
+        "name": "Ésteres Tartáricos de los Mono y Diglicéridos de los Ácidos Grasos / Esteres",
+        "type": "nodata"
+    },
+    {
+        "code": "E472e",
+        "name": "Ésteres Monoacetiltartárico y Diacetiltartárico de los Mono y Diglicéridos de los Ácidos Grasos / Esteres",
+        "type": "nodata"
+    },
+    {
+        "code": "E472f",
+        "name": "Ésteres Mixtos Acéticos y Tartáricos de los Mono y Diglicéridos de los Ácidos Grasos / Esteres",
+        "type": "nodata"
+    },
+    {
+        "code": "E473",
+        "name": "Sucroésteres de los Ácidos Grasos / Sucroésteres / Sucroésteres de ácidos grasos",
+        "type": "maybe"
+    },
+    {
+        "code": "E474",
+        "name": "Sucroglicéridos de los Ácidos Grasos / Sucroglicéridos",
+        "type": "maybe"
+    },
+    {
+        "code": "E475",
+        "name": "Ésteres Poliglicéridos de los Ácidos Grasos / Esteres / Ésteres poliglicéridos de ácidos grasos",
+        "type": "maybe"
+    },
+    {
+        "code": "E476",
+        "name": "Polirricinoleato de Poliglicerol / Polirricinoleato / Esteres de poliglicerol de los ácidos grasos policondensados del aceite de ricino",
+        "type": "vegan"
+    },
+    {
+        "code": "E477",
+        "name": "Ésteres de Propilenglicol de los Ácidos Grasos / Esteres / Ésteres de propano-1,2 -diol de ácidos grasos",
+        "type": "maybe"
+    },
+    {
+        "code": "E478",
+        "name": "Esteres / Esteres de ácidos grasos lactilados de glicerol y de propano-1,2-diol",
+        "type": "maybe"
+    },
+    {
+        "code": "E479",
+        "name": "Aceite de soja esterificado",
+        "type": "maybe"
+    },
+    {
+        "code": "E479b",
+        "name": "Aceite de Soja Oxidado / Aceite",
+        "type": "nodata"
+    },
+    {
+        "code": "E480",
+        "name": "Dioctil Sulfosuccinato de Sodio / Ácido / Dioctyl sodium sulphosuccinate",
+        "type": "vegan"
+    },
+    {
+        "code": "E481",
+        "name": "Estearoil-2-Lactilato Sódico / Estearoil-2-lactilato / Estearoil-2-lactilato de sodio",
+        "type": "maybe"
+    },
+    {
+        "code": "E482",
+        "name": "Estearoil-2-Lactilato Cálcico / Estearoil-2-lactilato / Estearoil-2-lactilato de calcio",
+        "type": "maybe"
+    },
+    {
+        "code": "E483",
+        "name": "Tartrato de Estearilo / Tartrato",
+        "type": "maybe"
+    },
+    {
+        "code": "E484",
+        "name": "Estearilcitrato",
+        "type": "maybe"
+    },
+    {
+        "code": "E490",
+        "name": "Propilenglicol",
+        "type": "vegan"
+    },
+    {
+        "code": "E491",
+        "name": "Monoestearato de Sorbitán / Monoestearato / Monoestearato de sorbinato",
+        "type": "maybe"
+    },
+    {
+        "code": "E492",
+        "name": "Triestearato de Sorbitán / Triestearato / Triestearato de sorbinato",
+        "type": "maybe"
+    },
+    {
+        "code": "E493",
+        "name": "Monolaurato de Sorbitán / Monolaurato / Monolaurato de sorbinato",
+        "type": "maybe"
+    },
+    {
+        "code": "E494",
+        "name": "Monooleato de Sorbitán / Monooleato / Monooleato de sorbinato",
+        "type": "maybe"
+    },
+    {
+        "code": "E495",
+        "name": "Monopalmitato de Sorbitán / Monopalmitato / Monopalmitato de sorbinato",
+        "type": "maybe"
+    },
+    {
+        "code": "E499",
+        "name": "Fitoesteroles Ricos en Estigmasterol",
+        "type": "nodata"
+    },
+    {
+        "code": "E500",
+        "name": "Carbonatos de Sodio / Carbonatos / Carbonato de sodio",
+        "type": "vegan"
+    },
+    {
+        "code": "E500i",
+        "name": "Carbonato de Sodio / Carbonato",
+        "type": "nodata"
+    },
+    {
+        "code": "E500ii",
+        "name": "Carbonato Ácido de Sodio / Carbonato",
+        "type": "nodata"
+    },
+    {
+        "code": "E500iii",
+        "name": "Sesquicarbonato",
+        "type": "nodata"
+    },
+    {
+        "code": "E501",
+        "name": "Carbonatos de Potasio / Carbonatos / Carbonato de potasio",
+        "type": "vegan"
+    },
+    {
+        "code": "E501i",
+        "name": "Carbonato de Potasio / Carbonato",
+        "type": "nodata"
+    },
+    {
+        "code": "E501ii",
+        "name": "Carbonato Ácido de Potasio / Carbonato",
+        "type": "nodata"
+    },
+    {
+        "code": "E503",
+        "name": "Carbonatos de Amonio / Carbonatos / Carbonato de amonio",
+        "type": "vegan"
+    },
+    {
+        "code": "E503i",
+        "name": "Carbonato de Amonio / Carbonato",
+        "type": "nodata"
+    },
+    {
+        "code": "E503ii",
+        "name": "Carbonato Ácido de Amonio / Carbonato",
+        "type": "nodata"
+    },
+    {
+        "code": "E504",
+        "name": "Carbonatos de Magnesio / Carbonato / Carbonato de magnesio",
+        "type": "vegan"
+    },
+    {
+        "code": "E504i",
+        "name": "Carbonato de Magnesio",
+        "type": "nodata"
+    },
+    {
+        "code": "E504ii",
+        "name": "Carbonato Ácido de Magnesio",
+        "type": "nodata"
+    },
+    {
+        "code": "E505",
+        "name": "Carbonato férrico",
+        "type": "vegan"
+    },
+    {
+        "code": "E507",
+        "name": "Ácido Clorhídrico / Ácido / Acido clorhídrico",
+        "type": "vegan"
+    },
+    {
+        "code": "E508",
+        "name": "Cloruro de Potasio / Cloruro",
+        "type": "vegan"
+    },
+    {
+        "code": "E509",
+        "name": "Cloruro de Calcio / Cloruro",
+        "type": "vegan"
+    },
+    {
+        "code": "E510",
+        "name": "Cloruro de Amonio",
+        "type": "vegan"
+    },
+    {
+        "code": "E511",
+        "name": "Cloruro de Magnesio / Cloruro",
+        "type": "vegan"
+    },
+    {
+        "code": "E512",
+        "name": "Cloruro de Estaño / Cloruro",
+        "type": "vegan"
+    },
+    {
+        "code": "E513",
+        "name": "Ácido Sulfúrico / Ácido / Acido sulfúrico",
+        "type": "vegan"
+    },
+    {
+        "code": "E514",
+        "name": "Sulfatos de Sodio / Sulfato / Sulfato de sodio",
+        "type": "vegan"
+    },
+    {
+        "code": "E514i",
+        "name": "Sulfato de Sodio",
+        "type": "nodata"
+    },
+    {
+        "code": "E514ii",
+        "name": "Sulfato Ácido de Sodio",
+        "type": "nodata"
+    },
+    {
+        "code": "E515",
+        "name": "Sulfato de potasio",
+        "type": "vegan"
+    },
+    {
+        "code": "E515i",
+        "name": "Sulfato",
+        "type": "nodata"
+    },
+    {
+        "code": "E515ii",
+        "name": "Sulfato",
+        "type": "nodata"
+    },
+    {
+        "code": "E516",
+        "name": "Sulfatos de Calcio / Sulfato / Sulfato de calcio",
+        "type": "vegan"
+    },
+    {
+        "code": "E516i",
+        "name": "Sulfato de Calcio",
+        "type": "nodata"
+    },
+    {
+        "code": "E516ii",
+        "name": "Sulfato Ácido de Calcio",
+        "type": "nodata"
+    },
+    {
+        "code": "E517",
+        "name": "Sulfatos de Amonio / Sulfato / Sulfato de amonio",
+        "type": "vegan"
+    },
+    {
+        "code": "E517i",
+        "name": "Sulfato de Amonio",
+        "type": "nodata"
+    },
+    {
+        "code": "E517ii",
+        "name": "Sulfato Ácido de Amonio",
+        "type": "nodata"
+    },
+    {
+        "code": "E518",
+        "name": "Sulfatos de Magnesio / Sulfato de magnesio",
+        "type": "vegan"
+    },
+    {
+        "code": "E518i",
+        "name": "Sulfato de Magnesio",
+        "type": "nodata"
+    },
+    {
+        "code": "E518ii",
+        "name": "Sulfato Ácido de Magnesio",
+        "type": "nodata"
+    },
+    {
+        "code": "E519",
+        "name": "Sulfatos de Cobre",
+        "type": "nodata"
+    },
+    {
+        "code": "E519i",
+        "name": "Sulfato de Cobre",
+        "type": "nodata"
+    },
+    {
+        "code": "E519ii",
+        "name": "Sulfato Ácido de Cobre",
+        "type": "nodata"
+    },
+    {
+        "code": "E520",
+        "name": "Sulfato de Aluminio / Sulfato",
+        "type": "vegan"
+    },
+    {
+        "code": "E521",
+        "name": "Sulfato Sódico de Aluminio / Sulfato",
+        "type": "vegan"
+    },
+    {
+        "code": "E522",
+        "name": "Sulfato Potásico de Aluminio / Sulfato",
+        "type": "nodata"
+    },
+    {
+        "code": "E523",
+        "name": "Sulfato Amónico de Aluminio / Sulfato",
+        "type": "vegan"
+    },
+    {
+        "code": "E524",
+        "name": "Hidróxido de Sodio / Hidróxido",
+        "type": "vegan"
+    },
+    {
+        "code": "E525",
+        "name": "Hidróxido de Potasio / Hidroxido",
+        "type": "vegan"
+    },
+    {
+        "code": "E526",
+        "name": "Hidróxido de Calcio / Hidróxido",
+        "type": "vegan"
+    },
+    {
+        "code": "E527",
+        "name": "Hidróxido de Amonio / Hidróxido",
+        "type": "vegan"
+    },
+    {
+        "code": "E528",
+        "name": "Hidróxido de Magnesio / Hidróxido",
+        "type": "vegan"
+    },
+    {
+        "code": "E529",
+        "name": "Óxido de Calcio / Óxido / Oxido de calcio",
+        "type": "vegan"
+    },
+    {
+        "code": "E530",
+        "name": "Óxido de Magnesio / Óxido / Oxido de magnesio",
+        "type": "vegan"
+    },
+    {
+        "code": "E535",
+        "name": "Ferrocianuro de Sodio / Ferrocianuro",
+        "type": "vegan"
+    },
+    {
+        "code": "E536",
+        "name": "Ferrocianuro de Potasio / Ferrocianuro",
+        "type": "vegan"
+    },
+    {
+        "code": "E537",
+        "name": "Ferrocianuro de Magnesio / Hexacianomanganato de fierro",
+        "type": "vegan"
+    },
+    {
+        "code": "E538",
+        "name": "Ferrocianuro de Calcio / Ferrocianuro",
+        "type": "vegan"
+    },
+    {
+        "code": "E539",
+        "name": "Tiosulfato de sodio",
+        "type": "vegan"
+    },
+    {
+        "code": "E540",
+        "name": "Pirofosfato Dicálcico / Pirofosfato dicálcico (->E450)",
+        "type": "vegan"
+    },
+    {
+        "code": "E541",
+        "name": "Fosfato Ácido de Sodio y Aluminio / Fosfato sódico de aluminio",
+        "type": "vegan"
+    },
+    {
+        "code": "E541i",
+        "name": "Fosfato",
+        "type": "nodata"
+    },
+    {
+        "code": "E542",
+        "name": "Fosfato de Huesos / Fosfato comestible extraído de los huesos",
+        "type": "animal"
+    },
+    {
+        "code": "E543",
+        "name": "Pirofosfato de Sodio y Calcio / Polifosfato sódico de calcio",
+        "type": "vegan"
+    },
+    {
+        "code": "E544",
+        "name": "Pirofosfato de Calcio / Polifosfatos de calcio",
+        "type": "vegan"
+    },
+    {
+        "code": "E545",
+        "name": "Pirofosfato de Amonio / Polifosfatos de amonio",
+        "type": "vegan"
+    },
+    {
+        "code": "E546",
+        "name": "Pirofosfato de Magnesio",
+        "type": "vegan"
+    },
+    {
+        "code": "E550",
+        "name": "Silicatos de sodio",
+        "type": "vegan"
+    },
+    {
+        "code": "E551",
+        "name": "Óxido de Silicio / Óxido / Dióxido de silicona",
+        "type": "vegan"
+    },
+    {
+        "code": "E552",
+        "name": "Silicato de Calcio / Silicato",
+        "type": "vegan"
+    },
+    {
+        "code": "E553",
+        "name": "Silicato de magnesio",
+        "type": "vegan"
+    },
+    {
+        "code": "E553a",
+        "name": "Silicato de Magnesio / Trisilicato / Silicato",
+        "type": "nodata"
+    },
+    {
+        "code": "E553b",
+        "name": "Talco",
+        "type": "nodata"
+    },
+    {
+        "code": "E554",
+        "name": "Silicato de Sodio y Aluminio / Silicato / Silicato sódico de aluminio",
+        "type": "vegan"
+    },
+    {
+        "code": "E555",
+        "name": "Silicato de Potasio y Aluminio / Silicato / Silicato potásico de aluminio",
+        "type": "vegan"
+    },
+    {
+        "code": "E556",
+        "name": "Silicato de Calcio y Aluminio / Silicato / Silicato cálcico de aluminio",
+        "type": "vegan"
+    },
+    {
+        "code": "E557",
+        "name": "Silicato de zinc",
+        "type": "vegan"
+    },
+    {
+        "code": "E558",
+        "name": "Bentonita",
+        "type": "vegan"
+    },
+    {
+        "code": "E559",
+        "name": "Silicato de Aluminio (Caolín, Caolinita) / Caolín / Kaolina",
+        "type": "vegan"
+    },
+    {
+        "code": "E570",
+        "name": "Ácidos Grasos / Ácidos / Acido esteárico",
+        "type": "maybe"
+    },
+    {
+        "code": "E571",
+        "name": "Estearato de Amonio",
+        "type": "maybe"
+    },
+    {
+        "code": "E572",
+        "name": "Estearato de Magnesio",
+        "type": "maybe"
+    },
+    {
+        "code": "E573",
+        "name": "Estearato de Aluminio",
+        "type": "maybe"
+    },
+    {
+        "code": "E574",
+        "name": "Ácido Glucónico / Ácido / Acido glucónico",
+        "type": "vegan"
+    },
+    {
+        "code": "E575",
+        "name": "Glucono Delta Lactona (GDL) / Glucono / D-glucono-1,5-lactona",
+        "type": "vegan"
+    },
+    {
+        "code": "E576",
+        "name": "Gluconato Sódico / Gluconato / Gluconato de sodio",
+        "type": "vegan"
+    },
+    {
+        "code": "E577",
+        "name": "Gluconato Potásico / Gluconato / Gluconato de potasio",
+        "type": "vegan"
+    },
+    {
+        "code": "E578",
+        "name": "Gluconato Cálcico / Gluconato / Gluconato de calcio",
+        "type": "vegan"
+    },
+    {
+        "code": "E579",
+        "name": "Gluconato Ferroso / Gluconato / Gluconato de fierro",
+        "type": "vegan"
+    },
+    {
+        "code": "E585",
+        "name": "Lactato Ferroso / Lactato / Lactato férrico",
+        "type": "vegan"
+    },
+    {
+        "code": "E620",
+        "name": "Ácido Glutámico (Glutamatos) / Ácido / Ácido glutámico",
+        "type": "vegan"
+    },
+    {
+        "code": "E621",
+        "name": "Glutamato Monosódico / Glutamato",
+        "type": "vegan"
+    },
+    {
+        "code": "E622",
+        "name": "Glutamato Monopotásico / Glutamato",
+        "type": "vegan"
+    },
+    {
+        "code": "E623",
+        "name": "Glutamato Cálcico / Glutamato",
+        "type": "vegan"
+    },
+    {
+        "code": "E624",
+        "name": "Glutamato Amónico / Glutamato",
+        "type": "vegan"
+    },
+    {
+        "code": "E625",
+        "name": "Glutamato Magnésico / Glutamato",
+        "type": "vegan"
+    },
+    {
+        "code": "E626",
+        "name": "Ácido Guanílico / Ácido",
+        "type": "maybe"
+    },
+    {
+        "code": "E627",
+        "name": "Guanilato Sódico / Guanilato",
+        "type": "maybe"
+    },
+    {
+        "code": "E628",
+        "name": "Guanilato Potásico / Guanilato / Guanilato dipotásico",
+        "type": "maybe"
+    },
+    {
+        "code": "E629",
+        "name": "Guanilato Cálcico / Guanilato",
+        "type": "maybe"
+    },
+    {
+        "code": "E630",
+        "name": "Ácido Inosínico / Ácidoinosínico",
+        "type": "maybe"
+    },
+    {
+        "code": "E631",
+        "name": "Inosinato Sódico / Inosinato",
+        "type": "maybe"
+    },
+    {
+        "code": "E632",
+        "name": "Inosinato Potásico / Inosinato / Inosinato dipotásico",
+        "type": "maybe"
+    },
+    {
+        "code": "E633",
+        "name": "Inosinato Cálcico / Inosinato",
+        "type": "maybe"
+    },
+    {
+        "code": "E634",
+        "name": "Ribonucleótidos Cálcicos",
+        "type": "maybe"
+    },
+    {
+        "code": "E635",
+        "name": "Ribonucleótidos Sódicos / 5'-Ribonucleótidos",
+        "type": "maybe"
+    },
+    {
+        "code": "E636",
+        "name": "Maltol",
+        "type": "maybe"
+    },
+    {
+        "code": "E637",
+        "name": "Etilmaltol",
+        "type": "maybe"
+    },
+    {
+        "code": "E640",
+        "name": "Glicina y Glicinato Sódico / Glicina",
+        "type": "animal"
+    },
+    {
+        "code": "E650",
+        "name": "Acetato de Zinc",
+        "type": "nodata"
+    },
+    {
+        "code": "E710",
+        "name": "Espiramicina",
+        "type": "vegan"
+    },
+    {
+        "code": "E713",
+        "name": "Tilosina",
+        "type": "vegan"
+    },
+    {
+        "code": "E900",
+        "name": "Dimetil Polisiloxano (DMS) / Dimetilpolisiloxano",
+        "type": "vegan"
+    },
+    {
+        "code": "E900a",
+        "name": "Polidimetil Siloxano (PDMS)",
+        "type": "nodata"
+    },
+    {
+        "code": "E901",
+        "name": "Cera de Abejas / Cera",
+        "type": "animal"
+    },
+    {
+        "code": "E902",
+        "name": "Cera Candelilla / Cera",
+        "type": "vegan"
+    },
+    {
+        "code": "E903",
+        "name": "Cera Carnaúba / Cera / Cera carnauba",
+        "type": "vegan"
+    },
+    {
+        "code": "E904",
+        "name": "Goma Laca (Shellac) / Goma / Goma laca",
+        "type": "animal"
+    },
+    {
+        "code": "E905",
+        "name": "Cera Microcristalina / Aceites / Parafina, Vaselina",
+        "type": "vegan"
+    },
+    {
+        "code": "E906",
+        "name": "Goma / Goma benzoica",
+        "type": "vegan"
+    },
+    {
+        "code": "E907",
+        "name": "Poli-1-Deceno Hidrogenado / Cera / Cera microcristalina",
+        "type": "vegan"
+    },
+    {
+        "code": "E908",
+        "name": "Cera / Cera de salvado de arroz",
+        "type": "vegan"
+    },
+    {
+        "code": "E912",
+        "name": "Ésteres del Ácido Montánico / Esteres / Ésteres de ácido montánico",
+        "type": "vegan"
+    },
+    {
+        "code": "E913",
+        "name": "Lanolina (Cera de Lana) / Lanolina",
+        "type": "animal"
+    },
+    {
+        "code": "E914",
+        "name": "Cera Polietileno Oxidada / Cera",
+        "type": "nodata"
+    },
+    {
+        "code": "E915",
+        "name": "Ésteres de colofonia",
+        "type": "vegan"
+    },
+    {
+        "code": "E920",
+        "name": "L-Cisteína",
+        "type": "animal"
+    },
+    {
+        "code": "E921",
+        "name": "L-Cistina / L-cisteína",
+        "type": "animal"
+    },
+    {
+        "code": "E922",
+        "name": "Persulfato / Persulfato potásico",
+        "type": "vegan"
+    },
+    {
+        "code": "E923",
+        "name": "Persulfato / Persulfato amónico",
+        "type": "vegan"
+    },
+    {
+        "code": "E924",
+        "name": "Bromuro / Bromato potásico (número inválido)",
+        "type": "vegan"
+    },
+    {
+        "code": "E925",
+        "name": "Cloro",
+        "type": "vegan"
+    },
+    {
+        "code": "E926",
+        "name": "Bióxido / Dioxido de cloro",
+        "type": "vegan"
+    },
+    {
+        "code": "E927",
+        "name": "Azoformamida",
+        "type": "nodata"
+    },
+    {
+        "code": "E927a",
+        "name": "Azodicarbonamida / Carbamida",
+        "type": "vegan"
+    },
+    {
+        "code": "E927b",
+        "name": "Carbamida (Urea) / Carbamida / Urea",
+        "type": "vegan"
+    },
+    {
+        "code": "E928",
+        "name": "Benzoil peróxido",
+        "type": "vegan"
+    },
+    {
+        "code": "E930",
+        "name": "Peróxido de sodio",
+        "type": "vegan"
+    },
+    {
+        "code": "E938",
+        "name": "Gas Argón / Argón / Argon",
+        "type": "vegan"
+    },
+    {
+        "code": "E939",
+        "name": "Gas Helio / Helio",
+        "type": "vegan"
+    },
+    {
+        "code": "E940",
+        "name": "Diclorodifluorometano",
+        "type": "vegan"
+    },
+    {
+        "code": "E941",
+        "name": "Gas Nitrógeno / Nitrógeno",
+        "type": "vegan"
+    },
+    {
+        "code": "E942",
+        "name": "Gas Óxido nitroso / Óxido / Óxido nitroso",
+        "type": "vegan"
+    },
+    {
+        "code": "E943a",
+        "name": "Gas Butano",
+        "type": "nodata"
+    },
+    {
+        "code": "E943b",
+        "name": "Gas Isobutano",
+        "type": "nodata"
+    },
+    {
+        "code": "E944",
+        "name": "Gas Propano",
+        "type": "nodata"
+    },
+    {
+        "code": "E948",
+        "name": "Gas Oxígeno / Oxígeno",
+        "type": "nodata"
+    },
+    {
+        "code": "E949",
+        "name": "Gas Hidrógeno",
+        "type": "nodata"
+    },
+    {
+        "code": "E950",
+        "name": "Acesulfamo K (Acesulfame) / Acesulfamo / Acesulfamo K",
+        "type": "vegan"
+    },
+    {
+        "code": "E951",
+        "name": "Aspartamo (Aspartame) / Aspartamo",
+        "type": "vegan"
+    },
+    {
+        "code": "E952",
+        "name": "Ciclamato",
+        "type": "vegan"
+    },
+    {
+        "code": "E953",
+        "name": "Isomaltosa",
+        "type": "vegan"
+    },
+    {
+        "code": "E954",
+        "name": "Sacarina",
+        "type": "vegan"
+    },
+    {
+        "code": "E955",
+        "name": "Sucralosa",
+        "type": "vegan"
+    },
+    {
+        "code": "E957",
+        "name": "Taumatina",
+        "type": "vegan"
+    },
+    {
+        "code": "E958",
+        "name": "Glicirricina",
+        "type": "nodata"
+    },
+    {
+        "code": "E959",
+        "name": "Neohesperidina (NHDC) / Neohesperidina",
+        "type": "vegan"
+    },
+    {
+        "code": "E960",
+        "name": "Esteviósido (Extracto de Stevia)",
+        "type": "nodata"
+    },
+    {
+        "code": "E961",
+        "name": "Neotamo (Neotame)",
+        "type": "nodata"
+    },
+    {
+        "code": "E962",
+        "name": "Sal de Aspartamo y Acesulfamo",
+        "type": "nodata"
+    },
+    {
+        "code": "E963",
+        "name": "Tagatosa",
+        "type": "nodata"
+    },
+    {
+        "code": "E965",
+        "name": "Maltitol",
+        "type": "vegan"
+    },
+    {
+        "code": "E965i",
+        "name": "Maltitol",
+        "type": "nodata"
+    },
+    {
+        "code": "E965ii",
+        "name": "Jarabe de Maltitol / Jarabe",
+        "type": "nodata"
+    },
+    {
+        "code": "E966",
+        "name": "Lactitol",
+        "type": "animal"
+    },
+    {
+        "code": "E967",
+        "name": "Xilitol",
+        "type": "vegan"
+    },
+    {
+        "code": "E968",
+        "name": "Eritritol",
+        "type": "nodata"
+    },
+    {
+        "code": "E969",
+        "name": "Advantamo (Advantame)",
+        "type": "nodata"
+    },
+    {
+        "code": "E999",
+        "name": "Extracto de Quillay (Garcinia Cambogia) / Extracto / Extracto de quilaya",
+        "type": "vegan"
+    },
+    {
+        "code": "E1000",
+        "name": "Ácido cólico",
+        "type": "animal"
+    },
+    {
+        "code": "E1100",
+        "name": "Amilasa (Diastasa) / Amilasa",
+        "type": "maybe"
+    },
+    {
+        "code": "E1103",
+        "name": "Invertasa (Sacarasa) / Invertasa",
+        "type": "maybe"
+    },
+    {
+        "code": "E1105",
+        "name": "Lisozima (Muramidasa) / Lisozima",
+        "type": "animal"
+    },
+    {
+        "code": "E1200",
+        "name": "Polidextrosa",
+        "type": "vegan"
+    },
+    {
+        "code": "E1201",
+        "name": "Polivinil Pirrolidona (PVP) / Polivinil / Polivinilpirrolidona",
+        "type": "vegan"
+    },
+    {
+        "code": "E1202",
+        "name": "Polivinil Polipirrolidona (PVPP) / Polivinilpolipirrolidona / Polivinilpolipirrolidona insoluble",
+        "type": "vegan"
+    },
+    {
+        "code": "E1203",
+        "name": "Alcohol Polivinílico (PVOH)",
+        "type": "nodata"
+    },
+    {
+        "code": "E1204",
+        "name": "Pululano (Pullulane)",
+        "type": "nodata"
+    },
+    {
+        "code": "E1208",
+        "name": "Copolímero de Acetato de Vinilo",
+        "type": "nodata"
+    },
+    {
+        "code": "E1209",
+        "name": "Copolímero de Injerto (PVA-PEG)",
+        "type": "nodata"
+    },
+    {
+        "code": "E1400",
+        "name": "Dextrina / Dextrinas",
+        "type": "vegan"
+    },
+    {
+        "code": "E1401",
+        "name": "Almidón Ácido / Almidón ácido",
+        "type": "vegan"
+    },
+    {
+        "code": "E1402",
+        "name": "Almidón Alcalino Modificado",
+        "type": "vegan"
+    },
+    {
+        "code": "E1403",
+        "name": "Almidón Blanqueado",
+        "type": "vegan"
+    },
+    {
+        "code": "E1404",
+        "name": "Almidón Oxidado / Almidón",
+        "type": "vegan"
+    },
+    {
+        "code": "E1405",
+        "name": "Almidón Enzimático",
+        "type": "nodata"
+    },
+    {
+        "code": "E1410",
+        "name": "Fosfato Monoalmidón / Fosfato",
+        "type": "vegan"
+    },
+    {
+        "code": "E1411",
+        "name": "Glicerol dialmidón",
+        "type": "vegan"
+    },
+    {
+        "code": "E1412",
+        "name": "Fosfato Dialmidón / Fosfato",
+        "type": "vegan"
+    },
+    {
+        "code": "E1413",
+        "name": "Fosfato Dialmidón Fosfatado / Fosfato",
+        "type": "vegan"
+    },
+    {
+        "code": "E1414",
+        "name": "Fosfato Dialmidón Acetilado / Fosfato",
+        "type": "vegan"
+    },
+    {
+        "code": "E1420",
+        "name": "Almidón Acetilado / Almidón",
+        "type": "vegan"
+    },
+    {
+        "code": "E1421",
+        "name": "Almidón Acetilado de Vinilo",
+        "type": "vegan"
+    },
+    {
+        "code": "E1422",
+        "name": "Adipato Dialmidón Acetilado / Adipato",
+        "type": "vegan"
+    },
+    {
+        "code": "E1423",
+        "name": "Glicerol dialmidón acetilado",
+        "type": "vegan"
+    },
+    {
+        "code": "E1440",
+        "name": "Hidroxipropil Almidón / Hidroxipropil",
+        "type": "vegan"
+    },
+    {
+        "code": "E1441",
+        "name": "Glicerol Dialmidon Hidroxipropilado",
+        "type": "vegan"
+    },
+    {
+        "code": "E1442",
+        "name": "Fosfato Dialmidón Hidroxipropilado / Fosfato / Fosfato Dialmidon Hidroxipropilado",
+        "type": "vegan"
+    },
+    {
+        "code": "E1450",
+        "name": "Octenil Succinato Sódico de Almidón / Octenil",
+        "type": "vegan"
+    },
+    {
+        "code": "E1451",
+        "name": "Almidón Oxidado Acetilado",
+        "type": "nodata"
+    },
+    {
+        "code": "E1452",
+        "name": "Octenil Succinato Alumínico de Almidón",
+        "type": "nodata"
+    },
+    {
+        "code": "E1501",
+        "name": "Hidrocarbonos bencilados",
+        "type": "vegan"
+    },
+    {
+        "code": "E1502",
+        "name": "1,3 butanodiol",
+        "type": "vegan"
+    },
+    {
+        "code": "E1503",
+        "name": "Aceite de ricino",
+        "type": "vegan"
+    },
+    {
+        "code": "E1504",
+        "name": "Acetato de etilo",
+        "type": "vegan"
+    },
+    {
+        "code": "E1505",
+        "name": "Citrato de Trietilo / Citrato",
+        "type": "vegan"
+    },
+    {
+        "code": "E1516",
+        "name": "Monoacetato de glicerol",
+        "type": "vegan"
+    },
+    {
+        "code": "E1517",
+        "name": "Diacetín (Diacetato de Glicerina) / Diacetato de glicerol",
+        "type": "vegan"
+    },
+    {
+        "code": "E1518",
+        "name": "Triacetín (Triacetato de Glicerina) / Triacetato / Triacetato de glicerol",
+        "type": "vegan"
+    },
+    {
+        "code": "E1519",
+        "name": "Alcohol Bencílico",
+        "type": "nodata"
+    },
+    {
+        "code": "E1520",
+        "name": "Propilenglicol",
+        "type": "vegan"
+    },
+    {
+        "code": "E1521",
+        "name": "Polietilenglicoles",
+        "type": "nodata"
+    },
+    {
+        "code": "E1525",
+        "name": "Hidroxietil celulosa",
+        "type": "vegan"
+    },
+    {
+        "code": "H4511",
+        "name": "Caseinato",
+        "type": "nodata"
+    },
+    {
+        "code": "H4512",
+        "name": "Caseinato",
+        "type": "nodata"
+    },
+    {
+        "code": "E4945",
+        "name": "Monooleato",
+        "type": "nodata"
+    }
+]

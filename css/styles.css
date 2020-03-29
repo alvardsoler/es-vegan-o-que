@@ -9,6 +9,8 @@
 
 #search {
   margin: 0 2em 1em 2em;
+  height: 2em;
+  font-size: 2em;
   width: 100%;
   padding: 1em;
 }
@@ -25,8 +27,8 @@
 .item {
   padding: 0.5em;
   margin: 0 1em 1em 1em;
-  width: 30%;
-  max-height: 10vh;
+  width: 100%;
+  font-size: 2em;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -40,14 +42,22 @@
 
 .vegan {
   background: #c5e1a5;
+  border: 1px solid #7CB342;
 }
 
 .animal {
   background: #ffcdd2;
+  border: 1px solid #e53935;
 }
 
-.meaby {
+.nodata {
+  background: #f5f5f5;
+  border: 1px solid #e0e0e0;
+}
+
+.maybe {
   background: #fff9c4;
+  border: 1px solid #fdd835;
 }
 
 /* Mobile Styles */

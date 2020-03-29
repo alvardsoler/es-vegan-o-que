@@ -4,7 +4,8 @@ fetch('allAditives.json').then(resp => resp.json()).then(json => list = json);
 
 const emojis = {
   animal: '🚫',
-  meaby: '❔',
+  maybe: '❔',
+  nodata: '❔',
   vegan: '🌱'
 };
 
@@ -25,23 +26,19 @@ const _template = (aditive) => {
 };
 
 const onInput = () => {
-  const text = input.value.replace(/e/ig, '').split(' ');
+  const text = input.value.split(' ').filter(text => !!text);
   if (text.length) {
-    const aditivesMap = text.filter(t => t.match(/^(e)?\d{3,4}$/i)).map(t => {
-      const sotredAditive = list.find(aditive => aditive.code === t);
-      if (sotredAditive) return sotredAditive;
-    }).reduce((map, aditive) => {
-      if (!map.has(aditive.code)) map.set(aditive.code, aditive);
+    const aditivesMap = text.filter(t => t.match(/\d{3,4}/i)).reduce((map, text) => {
+      const reg = new RegExp(text, 'i');
+      const aditive = list.find(aditive => aditive.code.match(text));
+      if (aditive && !map.has(aditive.code)) {
+        map.set(aditive.code, aditive);
+      }
       return map;
     }, new Map());
     const aditives = [...aditivesMap.values()];
-    results.innerHTML = aditives.map(aditive => _template(aditive)).join('\n');
+    results.innerHTML = aditives.map(aditive => _template(aditive)).reverse().join('\n');
   }
 };
 
 input.addEventListener('input', onInput);
-
-// setTimeout(() => {
-//   input.value = '431 542 220 110 111 200 120';
-//   onInput();
-// }, 500);
