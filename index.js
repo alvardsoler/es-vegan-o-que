@@ -30,7 +30,7 @@ const onInput = () => {
   if (text.length) {
     const aditivesMap = text.filter(t => t.match(/\d{3,4}/i)).reduce((map, text) => {
       const reg = new RegExp(text, 'i');
-      const aditive = list.find(aditive => aditive.code.match(text));
+      const aditive = list.find(aditive => aditive.code.match(reg));
       if (aditive && !map.has(aditive.code)) {
         map.set(aditive.code, aditive);
       }
