@@ -1,12 +1,10 @@
-let list = [];
-
-fetch('allAditives.json').then(resp => resp.json()).then(json => list = json);
+import list from '../../static/allAditives.json';
 
 const emojis = {
   animal: '🚫',
-  maybe: '❔',
+  maybe: '🤷‍',
   nodata: '❔',
-  vegan: '🌱'
+  vegan: '🥦'
 };
 
 // https://en.wikipedia.org/wiki/E_number

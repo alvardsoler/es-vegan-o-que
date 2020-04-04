@@ -4,9 +4,12 @@
   "description": "list of aditive numbers and if its vegan or what",
   "main": "index.js",
   "scripts": {
-    "start": "python -m SimpleHTTPServer",
+    "start": "parcel watch index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
 }
