@@ -4,6 +4,7 @@
   "description": "list of aditive numbers and if its vegan or what",
   "main": "index.js",
   "scripts": {
+    "build-gh-pages": "parcel build index.html --public-url /es-vegan-o-que/",
     "start": "parcel watch index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
